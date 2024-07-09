@@ -109,7 +109,7 @@
     
     <div class="container">
     <div class="row justify-content-center">
-        <div class="ccol-12 content-head">
+        <div class="col-12 content-head">
             
         </div>
     </div>
@@ -128,7 +128,7 @@
           container.innerHTML = '';
           products.forEach(product => {
               const productElement = document.createElement('div');
-              productElement.className = 'item features-image col-12 col-md-6 col-lg-3';
+              productElement.className = 'item features-image col-12 col-md-6 col-lg-3'; // Ajustando col-lg-3 para col-lg-4
               productElement.innerHTML = `
                  <div class="item-wrapper">
                     <div class="item-img
