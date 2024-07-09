@@ -10010,7 +10010,7 @@ a {
 }
 @media (max-width: 768px) {
   .cid-uhSR05KiJs .embla__slide {
-    min-width: 85%;
+    min-width: 60%;
     max-width: initial;
   }
 }
@@ -10083,7 +10083,7 @@ a {
 }
 @media (max-width: 768px) {
   .cid-uhSR05KiJs .embla__container .embla__slide:first-child {
-    margin-left: 2rem !important;
+    margin-left: 7rem !important;
   }
   .cid-uhSR05KiJs .embla__container .embla__slide:last-child {
     margin-right: 2rem !important;
