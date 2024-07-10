@@ -10151,10 +10151,11 @@ a {
 @media (max-width: 767px) {
   .cid-uhWwv2fb4Y .item {
     margin-bottom: 1rem;
+    width: 50%;
   }
   .cid-uhWwv2fb4Y img,
   .cid-uhWwv2fb4Y .item-img {
-    width: 65%;
+    width: 100%;
   }
 }
 
