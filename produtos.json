@@ -125,10 +125,23 @@
     ],
 
     "Yerba Mate": [
-        { "id": 248, "url":"?", "name": "Yerba mate 01", "image": "imgprodutos/imagem01.png", "description": "Description for product B1", "price": "$30" },
+        { "id": 248, "url":"?", "name": "Rosamonte 500g", "image": "imgprodutos/yerbamate/Rosamonte 500g.jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 249, "url":"?", "name": "Yerba mate 02", "image": "imgprodutos/imagem02.png", "description": "Description for product B2", "price": "$40" }
+        { "id": 249, "url":"?", "name": "Rosamonte Suave 500g", "image": "imgprodutos/yerbamate/Rosamonte Suave 500g.jpg", "description": "Description for product B2", "price": "$40" },
 
+        { "id": 250, "url":"?", "name": "Baldo padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Baldo padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 251, "url":"?", "name": "Baldo padrão uruguaio 500g", "image": "imgprodutos/yerbamate/Baldo tipo uruguaia 500g.jpg", "description": "Description for product B2", "price": "$40" },
+
+        { "id": 252, "url":"?", "name": "Canarias padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Canarias padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "$30" },
+        
+        { "id": 253, "url":"?", "name": "Rei verde tipo argentina 500g", "image": "imgprodutos/yerbamate/Rei Verde 500g tipo argentina.jpg", "description": "Description for product B1", "price": "$30" },
+        
+        { "id": 254, "url":"?", "name": "Barão tradicional tipo argentina 500g", "image": "imgprodutos/yerbamate/Barão 500g (tipo argentina).jpg", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 255, "url":"?", "name": "Barão tipo uruguaia 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia 1kg.jpg", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 256, "url":"?", "name": "Barão tipo uruguaia composta ervas 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia composta ervas 1kg.jpg", "description": "Description for product B1", "price": "$30" }
     ],
 
     "Kits Chimarrao": [
