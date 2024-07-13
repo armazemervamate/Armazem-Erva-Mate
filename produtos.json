@@ -94,65 +94,41 @@
 
         { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamatepura/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$18,00" },
 
-        { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamatepura/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$18,00" },
+        { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamatepura/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$18,00" }
         
-        { "id": 236, "url":"?", "name": "Mate Nativo Premium", "image": "imgprodutos/ervamatepura/Mate Nativo Premium 1kg.jpg", "description": "Erva premium com folhas selecionadas<br> 1KG", "price": "R$ 21,00" },
+        ],
 
-        { "id": 237, "url":"?", "name": "Mate Nativo Original", "image": "imgprodutos/ervamatepura/Mate Nativo original 1kg.jpg", "description": "Erva Mate Nativo Tracional<br> 1KG", "price": "R$ 19,00" },
+    "Erva Mate Composta": [
+        { "id": 236, "url":"?", "name": "Brasão Verde Bergamota a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-bergamota-a-vácuo500g.jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 238, "url":"?", "name": "Mate Nativo Moída Grossa", "image": "imgprodutos/ervamatepura/mate nativo moida grossa 1kg.jpg", "description": "Erva Mate Nativo Moída Grossa<br> 1KG", "price": "R$ 20,00" },
+        { "id": 237, "url":"?", "name": "Brasão Verde Menta a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-Verde-menta-à-vácuo-500g.jpg", "description": "Description for product B2", "price": "$40" },
+   
+        { "id": 238, "url":"?", "name": "Brasão Verde Vanilla Ice com Pêssego Vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-vanilla-ice-com-pêssegoa-vácuo-500g.jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 239, "url":"?", "name": "Mate Nativo Orgânica à vácuo", "image": "imgprodutos/ervamatepura/Mate Nativo Orgânica à vácuo 500g.jpg", "description": "Mate Nativo Orgânica à vácuo<br> 500g", "price": "R$ 17,00" },
+        { "id": 239, "url":"?", "name": "Ximango Menta a Vácuo", "image": "imgprodutos/ervamatecomposto/ximango-menta-a-vácuo-500g.jpg", "description": "Description for product B2", "price": "$40" },
     
-        { "id": 240, "url":"?", "name": "Mate Nativo Pura Folha Padrão Export à vácuo", "image": "imgprodutos/ervamatepura/Mate Nativo Pura Folha Padrão Export à vácuo 250g.jpg", "description": "Mate Nativo Pura Folha Padrão Export à vácuo<br> 250g", "price": "R$ 13,00" },
+        { "id": 240, "url":"?", "name": "Madrugada Carqueja Camomila Erva Doce Nacional e Cidreira", "image": "imgprodutos/ervamatecomposto/madrugada-Carqueja-camomila-erva-doce-nacional-e-cidreira-500g .jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 241, "url":"?", "name": "Cristalina Nativa", "image": "imgprodutos/ervamatepura/Cristalina Nativa 1kg.jpg", "description": "Cristalina Nativa<br> 1Kg", "price": "R$ 20,00" },
+        { "id": 241, "url":"?", "name": "Madrugada Cascaritas", "image": "imgprodutos/ervamatecomposto/Madrugada-cascaritas-500g.jpg", "description": "Description for product B2", "price": "$40" },
+    
+        { "id": 242, "url":"?", "name": "Madrugada com Chás", "image": "imgprodutos/ervamatecomposto/madrugada-com-chás.jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 242, "url":"?", "name": "Cristalina Premium à vácuo", "image": "imgprodutos/ervamatepura/Cristalina Premium à vácuo 1kg.jpg", "description": "Cristalina Premium à vácuo <br> 1kg", "price": "R$ 23,00" },
-
-        { "id": 243, "url":"?", "name": "Cristalina Tradicional", "image": "imgprodutos/ervamatepura/Cristalina Tradicional 1kg.jpg", "description": "Cristalina Tradicional <br> 1kg", "price": "R$ 19,00" },
+        { "id": 243, "url":"?", "name": "Madrugada Menta e Gengibre", "image": "imgprodutos/ervamatecomposto/madrugada-menta-e-gengibre-500g.jpg", "description": "Description for product B2", "price": "$40" },
         
-        { "id": 244, "url":"?", "name": "Cristalina Suave com açúcar", "image": "imgprodutos/ervamatepura/Cristalina Suave (com açúcar) 1kg.jpg", "description": "Cristalina Suave (com açúcar) <br> 1kg", "price": "R$ 19,00" },
+        { "id": 244, "url":"?", "name": "Barão com Chás", "image": "imgprodutos/ervamatecomposto/barão-com-chás-500g.jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 245, "url":"?", "name": "De Valérios Premium à vácuo", "image": "imgprodutos/ervamatepura/De Valérios Premium à vácuo 1kg.jpg", "description": "De Valérios Premium à vácuo<br> 1kg", "price": "R$ 19,00" },
+        { "id": 245, "url":"?", "name": "Barão Menta", "image": "imgprodutos/ervamatecomposto/barão-menta-500g.jpg", "description": "Description for product B2", "price": "$40" },
+    
+        { "id": 246, "url":"?", "name": "Vier Cítrico", "image": "imgprodutos/ervamatecomposto/vier-cítrico-500g.jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 246, "url":"?", "name": "De Valérios Tradicional", "image": "imgprodutos/ervamatepura/De Valérios Tradicional 1 kg.jpg", "description": "De Valérios Tradicional <br> 1kg", "price": "R$ 18,00" },
+        { "id": 247, "url":"?", "name": "Mate Nativo Menta e Laranja a Vácuo", "image": "imgprodutos/ervamatecomposto/mate-nativo-Menta-e-Laranja-a-vácuo-500g.jpg", "description": "Description for product B2", "price": "$40" }
+    ],
 
-        { "id": 247, "url":"?", "name": "Madrugada Pura Folha", "image": "imgprodutos/ervamatepura/Madrugada Pura Folha 1kg.jpg", "description": "Madrugada Pura Folha <br> 1kg", "price": "R$21,00" },
+    "Yerba Mate": [
+        { "id": 248, "url":"?", "name": "Yerba mate 01", "image": "imgprodutos/imagem01.png", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 248, "url":"?", "name": "Madrugada Requinte à vácuo", "image": "imgprodutos/ervamatepura/Madrugada Requinte à vácuo 1kg.jpg", "description": "Madrugada Requinte à vácuo <br> 1kg", "price": "R$ 22,00" },
+        { "id": 249, "url":"?", "name": "Yerba mate 02", "image": "imgprodutos/imagem02.png", "description": "Description for product B2", "price": "$40" }
 
-        { "id": 249, "url":"?", "name": "Ximango Tradicional à vácuo", "image": "imgprodutos/ervamatepura/Ximango Tradicional à vácuo 1kg.jpg", "description": "Ximango Tradicional à vácuo <br> 1kg", "price": "R$ 18,00" },
-
-        { "id": 250, "url":"?", "name": "Ximango Moída Grossa à vácuo", "image": "imgprodutos/ervamatepura/Ximango Moída Grossa à vácuo 1kg.jpg", "description": "Ximango Moída Grossa à vácuo 1kg e 500g", "price": "R$ 18,00" },
-
-        { "id": 251, "url":"?", "name": "Urubici Premium à vácuo", "image": "imgprodutos/ervamatepura/Urubici Premium à vácuo 1kg.jpg", "description": "Urubici Premium à vácuo <br> 1kg", "price": "R$ 19,00" },
-
-        { "id": 252, "url":"?", "name": "Seiva Pura Nativa", "image": "imgprodutos/ervamatepura/Seiva Pura Nativa 1kg.jpg", "description": "Seiva Pura Nativa <br> 1kg", "price": "R$ 19,50" },
-
-        { "id": 253, "url":"?", "name": "Seiva Pura Premium à vácuo", "image": "imgprodutos/ervamatepura/Seiva Pura Premium à vácuo 1kg.jpg", "description": "Seiva Pura Premium à vácuo <br> 1kg", "price": "R$ 24,00" },
-
-        { "id": 254, "url":"?", "name": "Seiva Pura suave com açúcar", "image": "imgprodutos/ervamatepura/Seiva Pura suave (com açúcar)  1kg.jpg", "description": "Seiva Pura suave (com açúcar) <br> 1kg", "price": "R$ 19,50" },
-
-        { "id": 255, "url":"?", "name": "Cancheada Nativa", "image": "imgprodutos/ervamatepura/Cancheada Nativa 1kg.jpg", "description": "Cancheada Nativa <br> 1kg", "price": "R$ 18,00" },
-
-        { "id": 256, "url":"?", "name": "Rei Verde Nobre a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Nobre a vácuo 1kg.jpg", "description": "Rei Verde Nobre a vácuo <br> 1kg", "price": "R$ 28,00" },
-
-        { "id": 257, "url":"?", "name": "Rei Verde Tradicional a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Tradicional a vácuo 1kg.jpg", "description": "Rei Verde Tradicional a vácuo 1kg <br> 1kg", "price": "R$ 21,00" },
-
-        { "id": 258, "url":"?", "name": "Rei Verde suave com açúcar", "image": "imgprodutos/ervamatepura/Rei Verde suave (com açúcar) 1kg.jpg", "description": "Rei Verde suave (com açúcar) <br> 1kg", "price": "R$21,00" },
-
-        { "id": 259, "url":"?", "name": "Rei Verde Barbaquá a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Barbaquá a vácuo 1kg.jpg", "description": "Rei Verde Barbaquá a vácuo <br> 1kg", "price": "R$26,00" },
-
-        { "id": 260, "url":"?", "name": "Elacy Moída Grossa", "image": "imgprodutos/ervamatepura/Elacy Moída Grossa 1kg.jpg", "description": "Elacy Moída Grossa <br> 1kg", "price": "R$ 19,00" },
-
-        { "id": 261, "url":"?", "name": "Mazutti Premium à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Premium à vácuo 1kg.jpg", "description": "Mazutti Premium à vácuo <br> 1kg", "price": "R$ 22,00" },
-
-        { "id": 262, "url":"?", "name": "Mazutti Tradicional  à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Tradicional  à vácuo 1kg.jpg", "description": "Mazutti Tradicional  à vácuo <br> 1kg", "price": "R$18,00" },
-
-        { "id": 263, "url":"?", "name": "Mazutti Moída Grossa à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Moída Grossa à vácuo 1kg.jpg", "description": "Mazutti Moída Grossa à vácuo <br> 1kg", "price": "R$18,00" },
-
-        { "id": 264, "url":"?", "name": "Ponche Verde Tradicional", "image": "imgprodutos/ervamatepura/Ponche Verde Tradicional 1kg.jpg", "description": "Ponche Verde Tradicional <br> 1kg", "price": "R$ 18,00" }
     ],
 
     "Kits Chimarrao": [

@@ -113,7 +113,9 @@
       const products = await response.json();
       return {
         ervaMatePura: products["Erva Mate Pura"],
-        outraLinha: products["Acessorios Chimarrao"] // Substitua "Outra Linha" pelo nome real da linha de produtos
+        ervaMateComposta: products["Erva Mate Composta"],
+        yerbaMate: products["Yerba Mate"],
+        terere: products["Tereré"]
       };
     }
 
@@ -163,24 +165,57 @@
       // Exibe produtos de Erva Mate Pura
       displayProducts(products.ervaMatePura, 'product-container');
 
-      // Cria um título para a outra linha de produtos
-      const container = document.getElementById('product-container');
-      const newTitle = createTitle('Erva Mate Composta', 'To add more cards, hover on a card and click ');
-      const newRow = document.createElement('div');
+      // Cria um título para a linha "Erva Mate Composta"
+      let container = document.getElementById('product-container');
+      let newTitle = createTitle('Erva Mate Composta', 'Explore nossa linha de Erva Mate Composta');
+      let newRow = document.createElement('div');
       newRow.className = 'row justify-content-center mb-5';
       newRow.appendChild(newTitle);
       container.parentNode.insertBefore(newRow, container.nextSibling);
 
-      // Adiciona um novo container para a outra linha de produtos
-      const newContainer = document.createElement('div');
-      newContainer.id = 'other-products-container';
+      // Adiciona um novo container para a linha "Erva Mate Composta"
+      let newContainer = document.createElement('div');
+      newContainer.id = 'erva-mate-composta-container';
       newContainer.className = 'row';
       newRow.parentNode.insertBefore(newContainer, newRow.nextSibling);
 
-      // Exibe produtos da outra linha
-      displayProducts(products.outraLinha, 'other-products-container');
+      // Exibe produtos da linha "Erva Mate Composta"
+      displayProducts(products.ervaMateComposta, 'erva-mate-composta-container');
+
+      // Cria um título para a linha "Yerba Mate"
+      newTitle = createTitle('Yerba Mate', 'Explore nossa linha de Yerba Mate Argentina e uruguaia');
+      newRow = document.createElement('div');
+      newRow.className = 'row justify-content-center mb-5';
+      newRow.appendChild(newTitle);
+      newContainer.parentNode.insertBefore(newRow, newContainer.nextSibling);
+
+      // Adiciona um novo container para a linha "Yerba Mate"
+      newContainer = document.createElement('div');
+      newContainer.id = 'yerba-mate-container';
+      newContainer.className = 'row';
+      newRow.parentNode.insertBefore(newContainer, newRow.nextSibling);
+
+      // Exibe produtos da linha "Yerba Mate"
+      displayProducts(products.yerbaMate, 'yerba-mate-container');
+
+      // Cria um título para a linha "Tereré"
+      newTitle = createTitle('Tereré', 'Explore nossa linha de Tereré');
+      newRow = document.createElement('div');
+      newRow.className = 'row justify-content-center mb-5';
+      newRow.appendChild(newTitle);
+      newContainer.parentNode.insertBefore(newRow, newContainer.nextSibling);
+
+      // Adiciona um novo container para a linha "Tereré"
+      newContainer = document.createElement('div');
+      newContainer.id = 'terere-container';
+      newContainer.className = 'row';
+      newRow.parentNode.insertBefore(newContainer, newRow.nextSibling);
+
+      // Exibe produtos da linha "Tereré"
+      displayProducts(products.terere, 'terere-container');
     };
-  </script>
+</script>
+
 </section>
 
 
