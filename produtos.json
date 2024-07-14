@@ -167,9 +167,21 @@
     ],
 
     "Bombas Chimarrao": [
-        { "id": 501, "url":"?", "name": "Bomba chimarrao 01", "image": "imgprodutos/imagem01.png", "description": "Description for product B1", "price": "$30" },
+        { "id": 501, "url":"?", "name": "Bomba fixa aplique bocal duplo e resfriador", "image": "imgprodutos/bombas/bomba-fixa-aplique-bocal-duplo-e-resfriador.jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 502, "url":"?", "name": "Bomba chimarrao 02", "image": "imgprodutos/imagem02.png", "description": "Description for product B2", "price": "$40" }
+        { "id": 502, "url":"?", "name": "Bomba fixa com gravação", "image": "imgprodutos/bombas/bomba-fixa-com-gravacao.jpg", "description": "Description for product B2", "price": "$40" },
+        
+        { "id": 503, "url":"?", "name": "Bombas fixas apliques", "image": "imgprodutos/bombas/bombas-fixas-apliques.jpg", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 504, "url":"?", "name": "Bombas fixas", "image": "imgprodutos/bombas/bombas-fixas.jpg", "description": "Description for product B2", "price": "$40" },
+
+        { "id": 505, "url":"?", "name": "Bombas fixa pedra agata", "image": "imgprodutos/bombas/bombas-fixa-pedra-agata.jpg", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 506, "url":"?", "name": "Bombas desmontaveis banhada ouro", "image": "imgprodutos/bombas/Bombas-desmontaveis-banhada-ouro.jpg", "description": "Description for product B2", "price": "$40" },
+
+        { "id": 507, "url":"?", "name": "Bombas desmontaveis com apliques", "image": "imgprodutos/bombas/bombas-desmontaveis-com-apliques2.jpg", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 508, "url":"?", "name": "Bombas desmontaveis pedra agata", "image": "imgprodutos/bombas/bombas-desmontaveis-pedra-agata.jpg", "description": "Description for product B2", "price": "$40" }
     ],
 
     "Cuias Personalizadas": [
