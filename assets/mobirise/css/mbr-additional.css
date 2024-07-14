@@ -10137,6 +10137,7 @@ a {
 .cid-uhWwv2fb4Y img,
 .cid-uhWwv2fb4Y .item-img {
   width: 100%;
+  border-radius: 1rem 1rem 0rem 0rem !important;
 }
 
 .cid-uhWwv2fb4Y .item:focus,
@@ -10197,11 +10198,12 @@ a {
 }
 
 .cid-uhWwv2fb4Y .item-wrapper {
+  border-radius: 50px 50px 0px 0px !important;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   height: 100%; /* Certifique-se de que o contêiner tenha uma altura definida */
-  padding: 5px;
+  padding: 0px;
   background-color: #f2f2f2;
   border: 1px solid #ccc;
 }
@@ -10244,6 +10246,9 @@ a {
 }
 
 .imgproduto-custom {
+  padding: 0px;
+  border: 2px solid #2e481a;
+  border-radius: 1rem !important;
   width: 80%;
   height: auto;
   margin-bottom: 10px;
