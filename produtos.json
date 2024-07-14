@@ -144,37 +144,53 @@
         { "id": 256, "url":"?", "name": "Barão tipo uruguaia composta ervas 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia composta ervas 1kg.jpg", "description": "Description for product B1", "price": "$30" }
     ],
 
-    "Kits Chimarrao": [
-        { "id": 301, "url":"?", "name": "Kits chimarrao 01", "image": "imgprodutos/imagem01.png", "description": "Description for product B1", "price": "$30" },
+    "Tereré": [
+        { "id": 257, "url":"?", "name": "Barão sabor Natural 500g", "image": "imgprodutos/terere/Barão sabor Natural 500g.jpg", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 302, "url":"?", "name": "Kits chimarrao 02", "image": "imgprodutos/imagem02.png", "description": "Description for product B2", "price": "$40" }
+        { "id": 258, "url":"?", "name": "Barão Menta e Limão 500g", "image": "imgprodutos/terere/Barão Menta e Limão 500g.jpg", "description": "Description for product B2", "price": "$40" },
+
+        { "id": 259, "url":"?", "name": "Barão Menta e Boldo 500g", "image": "imgprodutos/terere/Barão Menta e Boldo 500g.jpg", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 260, "url":"?", "name": "Barão Black Menta 500g", "image": "imgprodutos/terere/Barão Black Menta 500g.jpg", "description": "Description for product B2", "price": "$40" },
+
+        { "id": 261, "url":"?", "name": "Barão Abacaxi e Hortelã 500g", "image": "imgprodutos/terere/Barão Abacaxi e Hortelã 500g.jpg", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 262, "url":"?", "name": "Kurupí Paraguaia com Anís 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Anís 500g.jpg", "description": "Description for product B2", "price": "$40" },
+
+        { "id": 263, "url":"?", "name": "Kurupí Paraguaia com Gengibre Menta e Chá Verde 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Gengibre,  Menta e Chá Verde 500g.jpg", "description": "Description for product B1", "price": "$30" }
+    ],
+
+    "Kits Chimarrao": [
+        { "id": 401, "url":"?", "name": "Kits chimarrao 01", "image": "imgprodutos/imagem01.png", "description": "Description for product B1", "price": "$30" },
+
+        { "id": 402, "url":"?", "name": "Kits chimarrao 02", "image": "imgprodutos/imagem02.png", "description": "Description for product B2", "price": "$40" }
     ],
 
     "Bombas Chimarrao": [
-        { "id": 401, "url":"?", "name": "Bomba chimarrao 01", "image": "imgprodutos/imagem01.png", "description": "Description for product B1", "price": "$30" },
+        { "id": 501, "url":"?", "name": "Bomba chimarrao 01", "image": "imgprodutos/imagem01.png", "description": "Description for product B1", "price": "$30" },
 
-        { "id": 402, "url":"?", "name": "Bomba chimarrao 02", "image": "imgprodutos/imagem02.png", "description": "Description for product B2", "price": "$40" }
+        { "id": 502, "url":"?", "name": "Bomba chimarrao 02", "image": "imgprodutos/imagem02.png", "description": "Description for product B2", "price": "$40" }
     ],
 
     "Cuias Personalizadas": [
 
-        { "id": 501, "url":"?", "name": "Cuia porongo tradicional com base", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base.jpg", "description": "Description for product B1","longDescription": "Long description for product A1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": "$30" },
+        { "id": 601, "url":"?", "name": "Cuia porongo tradicional com base", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base.jpg", "description": "Description for product B1","longDescription": "Long description for product A1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": "$30" },
 
-        { "id": 502, "url":"?", "name": "Cuia porongo tradicional com base de metal", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base-metal.jpg", "description": "Description for product B2", "price": "$40" },
+        { "id": 602, "url":"?", "name": "Cuia porongo tradicional com base de metal", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base-metal.jpg", "description": "Description for product B2", "price": "$40" },
 
-        { "id": 503, "url":"?", "name": "Cuia de madeira imbuia", "image": "imgprodutos/cuias/cuia-madeira-imbuia.jpg", "description": "Description for product B1", "price": "$50" },
+        { "id": 603, "url":"?", "name": "Cuia de madeira imbuia", "image": "imgprodutos/cuias/cuia-madeira-imbuia.jpg", "description": "Description for product B1", "price": "$50" },
 
-        { "id": 504, "url":"?", "name": "Cuia de madeira com pé", "image": "imgprodutos/cuias/cuia-madeira-com-pe.jpg", "description": "Description for product B1", "price": "$20" },
+        { "id": 604, "url":"?", "name": "Cuia de madeira com pé", "image": "imgprodutos/cuias/cuia-madeira-com-pe.jpg", "description": "Description for product B1", "price": "$20" },
     
-        { "id": 505, "url":"?", "name": "Cuia de cerâmica", "image": "imgprodutos/cuias/cuia-de-ceramica.jpg", "description": "Description for product B1", "price": "$20" },
+        { "id": 605, "url":"?", "name": "Cuia de cerâmica", "image": "imgprodutos/cuias/cuia-de-ceramica.jpg", "description": "Description for product B1", "price": "$20" },
     
-        { "id": 506, "url":"?", "name": "cuia bago de touro curtida", "image": "imgprodutos/cuias/cuia-bago-de-touro-curtida.jpg", "description": "Description for product B1", "price": "$20" },
+        { "id": 606, "url":"?", "name": "cuia bago de touro curtida", "image": "imgprodutos/cuias/cuia-bago-de-touro-curtida.jpg", "description": "Description for product B1", "price": "$20" },
     
-        { "id": 507, "url":"?", "name": "coquinho com bombas simples", "image": "imgprodutos/cuias/coquinho-com-bombas-simples.jpg", "description": "Description for product B1", "price": "$20" },
+        { "id": 607, "url":"?", "name": "coquinho com bombas simples", "image": "imgprodutos/cuias/coquinho-com-bombas-simples.jpg", "description": "Description for product B1", "price": "$20" },
     
-        { "id": 508, "url":"?", "name": "coquinho com bocal em aluminio e suporte em couro", "image": "imgprodutos/cuias/coquinho-com-bocal-em-aluminio-e-suporte-em couro.jpg", "description": "Description for product B1", "price": "$20" },
+        { "id": 608, "url":"?", "name": "coquinho com bocal em aluminio e suporte em couro", "image": "imgprodutos/cuias/coquinho-com-bocal-em-aluminio-e-suporte-em couro.jpg", "description": "Description for product B1", "price": "$20" },
     
-        { "id": 509, "url":"?", "name": "cuia uruguaias", "image": "imgprodutos/cuias/cuia-uruguaias.jpg", "description": "Description for product B1", "price": "$20" }
+        { "id": 609, "url":"?", "name": "cuia uruguaias", "image": "imgprodutos/cuias/cuia-uruguaias.jpg", "description": "Description for product B1", "price": "$20" }
     
     
     
