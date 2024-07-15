@@ -1721,6 +1721,23 @@ a {
   justify-content: center;
   align-items: center;
 }
+
+.imggoogle {
+  width: 50%;
+  height: 50%;
+  margin-left: 130px;
+  justify-content: center;
+}
+
+@media (max-width: 820px) {
+  .imggoogle {
+    width: 50%;
+    height: 50%;
+    margin-left: 90px;
+    justify-content: center;
+  }
+}
+
 .cid-uf9xpqWHhC .card-title,
 .cid-uf9xpqWHhC .iconfont-wrapper {
   color: #232323;
