@@ -161,7 +161,7 @@
     ],
 
     "Kits Chimarrao": [
-        { "id": 401, "url":"?", "name": "Kits chimarrao 01", "image": "imgprodutos/imagem01.png", "description": "Description for product B1", "price": "$30" },
+        { "id": 401, "url":"?", "name": "kit Matetri golden", "image": "imgprodutos/kits/Kit Matetri Golden 3 peças.jpg", "description": "Description for product B1", "price": "R$130" },
 
         { "id": 402, "url":"?", "name": "Kits chimarrao 02", "image": "imgprodutos/imagem02.png", "description": "Description for product B2", "price": "$40" }
     ],
