@@ -1774,6 +1774,7 @@ a {
 }
 .cid-uf9DCGDbIS .item-wrapper {
   display: flex;
+  margin-left: 100px; 
   margin-bottom: 2rem;
   border-radius: 0 !important;
 }
