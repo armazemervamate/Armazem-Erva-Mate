@@ -99,65 +99,65 @@
         ],
 
     "Erva Mate Composta": [
-        { "id": 236, "url":"?", "name": "Brasão Verde Bergamota a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-bergamota-a-vácuo500g.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 236, "url":"?", "name": "Brasão Verde Bergamota a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-bergamota-a-vácuo500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 237, "url":"?", "name": "Brasão Verde Menta a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-Verde-menta-à-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$40" },
    
-        { "id": 238, "url":"?", "name": "Brasão Verde Vanilla Ice com Pêssego Vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-vanilla-ice-com-pêssegoa-vácuo-500g.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 238, "url":"?", "name": "Brasão Verde Vanilla Ice com Pêssego Vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-vanilla-ice-com-pêssegoa-vácuo-500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 239, "url":"?", "name": "Ximango Menta a Vácuo", "image": "imgprodutos/ervamatecomposto/ximango-menta-a-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$40" },
     
-        { "id": 240, "url":"?", "name": "Madrugada Carqueja Camomila Erva Doce Nacional e Cidreira", "image": "imgprodutos/ervamatecomposto/madrugada-Carqueja-camomila-erva-doce-nacional-e-cidreira-500g .jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 240, "url":"?", "name": "Madrugada Carqueja Camomila Erva Doce Nacional e Cidreira", "image": "imgprodutos/ervamatecomposto/madrugada-Carqueja-camomila-erva-doce-nacional-e-cidreira-500g .jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 241, "url":"?", "name": "Madrugada Cascaritas", "image": "imgprodutos/ervamatecomposto/Madrugada-cascaritas-500g.jpg", "description": "Description for product B2", "price": "R$40" },
     
-        { "id": 242, "url":"?", "name": "Madrugada com Chás", "image": "imgprodutos/ervamatecomposto/madrugada-com-chás.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 242, "url":"?", "name": "Madrugada com Chás", "image": "imgprodutos/ervamatecomposto/madrugada-com-chás.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 243, "url":"?", "name": "Madrugada Menta e Gengibre", "image": "imgprodutos/ervamatecomposto/madrugada-menta-e-gengibre-500g.jpg", "description": "Description for product B2", "price": "R$40" },
         
-        { "id": 244, "url":"?", "name": "Barão com Chás", "image": "imgprodutos/ervamatecomposto/barão-com-chás-500g.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 244, "url":"?", "name": "Barão com Chás", "image": "imgprodutos/ervamatecomposto/barão-com-chás-500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 245, "url":"?", "name": "Barão Menta", "image": "imgprodutos/ervamatecomposto/barão-menta-500g.jpg", "description": "Description for product B2", "price": "R$40" },
     
-        { "id": 246, "url":"?", "name": "Vier Cítrico", "image": "imgprodutos/ervamatecomposto/vier-cítrico-500g.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 246, "url":"?", "name": "Vier Cítrico", "image": "imgprodutos/ervamatecomposto/vier-cítrico-500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 247, "url":"?", "name": "Mate Nativo Menta e Laranja a Vácuo", "image": "imgprodutos/ervamatecomposto/mate-nativo-Menta-e-Laranja-a-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$40" }
     ],
 
     "Yerba Mate": [
-        { "id": 248, "url":"?", "name": "Rosamonte 500g", "image": "imgprodutos/yerbamate/Rosamonte 500g.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 248, "url":"?", "name": "Rosamonte 500g", "image": "imgprodutos/yerbamate/Rosamonte 500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 249, "url":"?", "name": "Rosamonte Suave 500g", "image": "imgprodutos/yerbamate/Rosamonte Suave 500g.jpg", "description": "Description for product B2", "price": "R$40" },
 
-        { "id": 250, "url":"?", "name": "Baldo padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Baldo padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 250, "url":"?", "name": "Baldo padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Baldo padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 251, "url":"?", "name": "Baldo padrão uruguaio 500g", "image": "imgprodutos/yerbamate/Baldo tipo uruguaia 500g.jpg", "description": "Description for product B2", "price": "R$40" },
 
-        { "id": 252, "url":"?", "name": "Canarias padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Canarias padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 252, "url":"?", "name": "Canarias padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Canarias padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "R$30,00" },
         
-        { "id": 253, "url":"?", "name": "Rei verde tipo argentina 500g", "image": "imgprodutos/yerbamate/Rei Verde 500g tipo argentina.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 253, "url":"?", "name": "Rei verde tipo argentina 500g", "image": "imgprodutos/yerbamate/Rei Verde 500g tipo argentina.jpg", "description": "Description for product B1", "price": "R$30,00" },
         
-        { "id": 254, "url":"?", "name": "Barão tradicional tipo argentina 500g", "image": "imgprodutos/yerbamate/Barão 500g (tipo argentina).jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 254, "url":"?", "name": "Barão tradicional tipo argentina 500g", "image": "imgprodutos/yerbamate/Barão 500g (tipo argentina).jpg", "description": "Description for product B1", "price": "R$30,00" },
 
-        { "id": 255, "url":"?", "name": "Barão tipo uruguaia 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia 1kg.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 255, "url":"?", "name": "Barão tipo uruguaia 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia 1kg.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
-        { "id": 256, "url":"?", "name": "Barão tipo uruguaia composta ervas 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia composta ervas 1kg.jpg", "description": "Description for product B1", "price": "R$30" }
+        { "id": 256, "url":"?", "name": "Barão tipo uruguaia composta ervas 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia composta ervas 1kg.jpg", "description": "Description for product B1", "price": "R$30,00" }
     ],
 
     "Tereré": [
-        { "id": 257, "url":"?", "name": "Barão sabor Natural 500g", "image": "imgprodutos/terere/Barão sabor Natural 500g.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 257, "url":"?", "name": "Barão sabor Natural 500g", "image": "imgprodutos/terere/Barão sabor Natural 500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 258, "url":"?", "name": "Barão Menta e Limão 500g", "image": "imgprodutos/terere/Barão Menta e Limão 500g.jpg", "description": "Description for product B2", "price": "R$40" },
 
-        { "id": 259, "url":"?", "name": "Barão Menta e Boldo 500g", "image": "imgprodutos/terere/Barão Menta e Boldo 500g.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 259, "url":"?", "name": "Barão Menta e Boldo 500g", "image": "imgprodutos/terere/Barão Menta e Boldo 500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 260, "url":"?", "name": "Barão Black Menta 500g", "image": "imgprodutos/terere/Barão Black Menta 500g.jpg", "description": "Description for product B2", "price": "R$40" },
 
-        { "id": 261, "url":"?", "name": "Barão Abacaxi e Hortelã 500g", "image": "imgprodutos/terere/Barão Abacaxi e Hortelã 500g.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 261, "url":"?", "name": "Barão Abacaxi e Hortelã 500g", "image": "imgprodutos/terere/Barão Abacaxi e Hortelã 500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 262, "url":"?", "name": "Kurupí Paraguaia com Anís 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Anís 500g.jpg", "description": "Description for product B2", "price": "R$40" },
 
-        { "id": 263, "url":"?", "name": "Kurupí Paraguaia com Gengibre Menta e Chá Verde 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Gengibre,  Menta e Chá Verde 500g.jpg", "description": "Description for product B1", "price": "R$30" }
+        { "id": 263, "url":"?", "name": "Kurupí Paraguaia com Gengibre Menta e Chá Verde 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Gengibre,  Menta e Chá Verde 500g.jpg", "description": "Description for product B1", "price": "R$30,00" }
     ],
 
     "Kits Chimarrao": [
@@ -210,26 +210,26 @@
     ],
 
     "Bombas Chimarrao": [
-        { "id": 501, "url":"?", "name": "Bomba fixa aplique bocal duplo e resfriador", "image": "imgprodutos/bombas/bomba-fixa-aplique-bocal-duplo-e-resfriador.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 501, "url":"?", "name": "Bomba fixa aplique bocal duplo e resfriador", "image": "imgprodutos/bombas/bomba-fixa-aplique-bocal-duplo-e-resfriador.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 502, "url":"?", "name": "Bomba fixa com gravação", "image": "imgprodutos/bombas/bomba-fixa-com-gravacao.jpg", "description": "Description for product B2", "price": "R$40" },
         
-        { "id": 503, "url":"?", "name": "Bombas fixas apliques", "image": "imgprodutos/bombas/bombas-fixas-apliques.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 503, "url":"?", "name": "Bombas fixas apliques", "image": "imgprodutos/bombas/bombas-fixas-apliques.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 504, "url":"?", "name": "Bombas fixas", "image": "imgprodutos/bombas/bombas-fixas.jpg", "description": "Description for product B2", "price": "R$40" },
 
-        { "id": 505, "url":"?", "name": "Bombas fixa pedra agata", "image": "imgprodutos/bombas/bombas-fixa-pedra-agata.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 505, "url":"?", "name": "Bombas fixa pedra agata", "image": "imgprodutos/bombas/bombas-fixa-pedra-agata.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 506, "url":"?", "name": "Bombas desmontaveis banhada ouro", "image": "imgprodutos/bombas/Bombas-desmontaveis-banhada-ouro.jpg", "description": "Description for product B2", "price": "R$40" },
 
-        { "id": 507, "url":"?", "name": "Bombas desmontaveis com apliques", "image": "imgprodutos/bombas/bombas-desmontaveis-com-apliques2.jpg", "description": "Description for product B1", "price": "R$30" },
+        { "id": 507, "url":"?", "name": "Bombas desmontaveis com apliques", "image": "imgprodutos/bombas/bombas-desmontaveis-com-apliques2.jpg", "description": "Description for product B1", "price": "R$30,00" },
 
         { "id": 508, "url":"?", "name": "Bombas desmontaveis pedra agata", "image": "imgprodutos/bombas/bombas-desmontaveis-pedra-agata.jpg", "description": "Description for product B2", "price": "R$40" }
     ],
 
     "Cuias Personalizadas": [
 
-        { "id": 601, "url":"?", "name": "Cuia porongo tradicional com base", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base.jpg", "description": "Description for product B1","longDescription": "Long description for product A1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": "R$30" },
+        { "id": 601, "url":"?", "name": "Cuia porongo tradicional com base", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base.jpg", "description": "Description for product B1","longDescription": "Long description for product A1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": "R$30,00" },
 
         { "id": 602, "url":"?", "name": "Cuia porongo tradicional com base de metal", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base-metal.jpg", "description": "Description for product B2", "price": "R$40" },
 
