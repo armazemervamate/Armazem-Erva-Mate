@@ -1440,7 +1440,7 @@ a {
 }
 .cid-uf9xpqXEfK .grid-container {
   display: grid;
-  transform: translate3d(-3rem, 0, 0);
+  transform: translate3d(-1rem, 0, 0);
   width: 115vw;
   grid-column-gap: 1rem;
 }
@@ -1729,11 +1729,11 @@ a {
   justify-content: center;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 1220px) {
   .imggoogle {
     width: 50%;
     height: 50%;
-    margin-left: 90px;
+    margin-left: 85px;
     justify-content: center;
   }
 }
@@ -1774,7 +1774,7 @@ a {
 }
 .cid-uf9DCGDbIS .item-wrapper {
   display: flex;
-  margin-left: 100px; 
+  margin-left: 49px; 
   margin-bottom: 2rem;
   border-radius: 0 !important;
 }
