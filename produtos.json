@@ -1,204 +1,204 @@
 {
     "Acessorios Chimarrao": [
-        { "id": 101, "url":"?", "name": "Cevador com frases", "image": "imgprodutos/acessorios/cevador-com-frases2.jpg", "description": "Description for product A1", "price": "R$10" },
+        { "id": 101, "url":"?", "name": "Cevador com frases", "image": "imgprodutos/acessorios/cevador-com-frases2.jpg", "description": "Description for product A1", "price": "R$ 10" },
 
-        { "id": 102, "url":"?", "name": "Cevador Galante ", "image": "imgprodutos/acessorios/cevador-galante2.jpg", "description": "Description for product A2", "price": "R$20" },
+        { "id": 102, "url":"?", "name": "Cevador Galante ", "image": "imgprodutos/acessorios/cevador-galante2.jpg", "description": "Description for product A2", "price": "R$ 20" },
         
-        { "id": 103, "url":"?", "name": "Cevador michelon", "image": "imgprodutos/acessorios/cevador-michelon2.jpg", "description": "Description for product A1", "price": "R$10" },
+        { "id": 103, "url":"?", "name": "Cevador michelon", "image": "imgprodutos/acessorios/cevador-michelon2.jpg", "description": "Description for product A1", "price": "R$ 10" },
 
-        { "id": 104, "url":"?", "name": "Pegador de erva em porongo", "image": "imgprodutos/acessorios/pegador.jpg", "description": "Description for product A2", "price": "R$20" },
+        { "id": 104, "url":"?", "name": "Pegador de erva em porongo", "image": "imgprodutos/acessorios/pegador.jpg", "description": "Description for product A2", "price": "R$ 20" },
         
-        { "id": 105, "url":"?", "name": "Suporte de carro para cuia", "image": "imgprodutos/acessorios/suporte-de-carro-para-cuia.jpg", "description": "Description for product A1", "price": "R$10" },
+        { "id": 105, "url":"?", "name": "Suporte de carro para cuia", "image": "imgprodutos/acessorios/suporte-de-carro-para-cuia.jpg", "description": "Description for product A1", "price": "R$ 10" },
 
-        { "id": 106, "url":"?", "name": "Tapa Erva", "image": "imgprodutos/acessorios/tapa-erva2.jpg", "description": "Description for product A2", "price": "R$20" },
+        { "id": 106, "url":"?", "name": "Tapa Erva", "image": "imgprodutos/acessorios/tapa-erva2.jpg", "description": "Description for product A2", "price": "R$ 20" },
 
-        { "id": 107, "url":"?", "name": "Facas de carbono", "image": "imgprodutos/acessorios/faca-carbono.jpg", "description": "Description for product A1", "price": "R$10" },
+        { "id": 107, "url":"?", "name": "Facas de carbono", "image": "imgprodutos/acessorios/faca-carbono.jpg", "description": "Description for product A1", "price": "R$ 10" },
 
-        { "id": 108, "url":"?", "name": "Facas de times", "image": "imgprodutos/acessorios/facas-times.jpg", "description": "Description for product A2", "price": "R$20" },
+        { "id": 108, "url":"?", "name": "Facas de times", "image": "imgprodutos/acessorios/facas-times.jpg", "description": "Description for product A2", "price": "R$ 20" },
 
-        { "id": 109, "url":"?", "name": "Facas artesanais", "image": "imgprodutos/acessorios/facas.jpg", "description": "Description for product A1", "price": "R$10" },
+        { "id": 109, "url":"?", "name": "Facas artesanais", "image": "imgprodutos/acessorios/facas.jpg", "description": "Description for product A1", "price": "R$ 10" },
 
-        { "id": 110, "url":"?", "name": "Facas artesanais", "image": "imgprodutos/acessorios/facas2.jpg", "description": "Description for product A2", "price": "R$20" }
+        { "id": 110, "url":"?", "name": "Facas artesanais", "image": "imgprodutos/acessorios/facas2.jpg", "description": "Description for product A2", "price": "R$ 20" }
 
 
 ],
 
     "Erva Mate Pura": [
-        { "id": 201, "url":"?", "name": "Mate Nativo Premium", "image": "imgprodutos/ervamatepura/Mate Nativo Premium 1kg.jpg", "description": "Erva premium com folhas selecionadas<br> 1KG", "price": "R$ 21,00" },
+        { "id": 201, "url":"?", "name": "Mate Nativo Premium", "image": "imgprodutos/ervamatepura/Mate Nativo Premium 1kg.jpg", "description": "Erva premium com folhas selecionadas<br> 1KG", "price": "R$  21,00" },
 
-        { "id": 202, "url":"?", "name": "Mate Nativo Original", "image": "imgprodutos/ervamatepura/Mate Nativo original 1kg.jpg", "description": "Erva Mate Nativo Tracional<br> 1KG", "price": "R$ 19,00" },
+        { "id": 202, "url":"?", "name": "Mate Nativo Original", "image": "imgprodutos/ervamatepura/Mate Nativo original 1kg.jpg", "description": "Erva Mate Nativo Tracional<br> 1KG", "price": "R$  19,00" },
 
-        { "id": 203, "url":"?", "name": "Mate Nativo Moída Grossa", "image": "imgprodutos/ervamatepura/mate nativo moida grossa 1kg.jpg", "description": "Erva Mate Nativo Moída Grossa<br> 1KG", "price": "R$ 20,00" },
+        { "id": 203, "url":"?", "name": "Mate Nativo Moída Grossa", "image": "imgprodutos/ervamatepura/mate nativo moida grossa 1kg.jpg", "description": "Erva Mate Nativo Moída Grossa<br> 1KG", "price": "R$  20,00" },
 
-        { "id": 204, "url":"?", "name": "Mate Nativo Orgânica à vácuo", "image": "imgprodutos/ervamatepura/Mate Nativo Orgânica à vácuo 500g.jpg", "description": "Mate Nativo Orgânica à vácuo<br> 500g", "price": "R$ 17,00" },
+        { "id": 204, "url":"?", "name": "Mate Nativo Orgânica à vácuo", "image": "imgprodutos/ervamatepura/Mate Nativo Orgânica à vácuo 500g.jpg", "description": "Mate Nativo Orgânica à vácuo<br> 500g", "price": "R$  17,00" },
     
-        { "id": 205, "url":"?", "name": "Mate Nativo Pura Folha Padrão Export à vácuo", "image": "imgprodutos/ervamatepura/Mate Nativo Pura Folha Padrão Export à vácuo 250g.jpg", "description": "Mate Nativo Pura Folha Padrão Export à vácuo<br> 250g", "price": "R$ 13,00" },
+        { "id": 205, "url":"?", "name": "Mate Nativo Pura Folha Padrão Export à vácuo", "image": "imgprodutos/ervamatepura/Mate Nativo Pura Folha Padrão Export à vácuo 250g.jpg", "description": "Mate Nativo Pura Folha Padrão Export à vácuo<br> 250g", "price": "R$  13,00" },
 
-        { "id": 206, "url":"?", "name": "Cristalina Nativa", "image": "imgprodutos/ervamatepura/Cristalina Nativa 1kg.jpg", "description": "Cristalina Nativa<br> 1Kg", "price": "R$ 20,00" },
+        { "id": 206, "url":"?", "name": "Cristalina Nativa", "image": "imgprodutos/ervamatepura/Cristalina Nativa 1kg.jpg", "description": "Cristalina Nativa<br> 1Kg", "price": "R$  20,00" },
 
-        { "id": 207, "url":"?", "name": "Cristalina Premium à vácuo", "image": "imgprodutos/ervamatepura/Cristalina Premium à vácuo 1kg.jpg", "description": "Cristalina Premium à vácuo <br> 1kg", "price": "R$ 23,00" },
+        { "id": 207, "url":"?", "name": "Cristalina Premium à vácuo", "image": "imgprodutos/ervamatepura/Cristalina Premium à vácuo 1kg.jpg", "description": "Cristalina Premium à vácuo <br> 1kg", "price": "R$  23,00" },
 
-        { "id": 208, "url":"?", "name": "Cristalina Tradicional", "image": "imgprodutos/ervamatepura/Cristalina Tradicional 1kg.jpg", "description": "Cristalina Tradicional <br> 1kg", "price": "R$ 19,00" },
+        { "id": 208, "url":"?", "name": "Cristalina Tradicional", "image": "imgprodutos/ervamatepura/Cristalina Tradicional 1kg.jpg", "description": "Cristalina Tradicional <br> 1kg", "price": "R$  19,00" },
         
-        { "id": 209, "url":"?", "name": "Cristalina Suave com açúcar", "image": "imgprodutos/ervamatepura/Cristalina Suave (com açúcar) 1kg.jpg", "description": "Cristalina Suave (com açúcar) <br> 1kg", "price": "R$ 19,00" },
+        { "id": 209, "url":"?", "name": "Cristalina Suave com açúcar", "image": "imgprodutos/ervamatepura/Cristalina Suave (com açúcar) 1kg.jpg", "description": "Cristalina Suave (com açúcar) <br> 1kg", "price": "R$  19,00" },
 
-        { "id": 210, "url":"?", "name": "De Valérios Premium à vácuo", "image": "imgprodutos/ervamatepura/De Valérios Premium à vácuo 1kg.jpg", "description": "De Valérios Premium à vácuo<br> 1kg", "price": "R$ 19,00" },
+        { "id": 210, "url":"?", "name": "De Valérios Premium à vácuo", "image": "imgprodutos/ervamatepura/De Valérios Premium à vácuo 1kg.jpg", "description": "De Valérios Premium à vácuo<br> 1kg", "price": "R$  19,00" },
 
-        { "id": 211, "url":"?", "name": "De Valérios Tradicional", "image": "imgprodutos/ervamatepura/De Valérios Tradicional 1 kg.jpg", "description": "De Valérios Tradicional <br> 1kg", "price": "R$ 18,00" },
+        { "id": 211, "url":"?", "name": "De Valérios Tradicional", "image": "imgprodutos/ervamatepura/De Valérios Tradicional 1 kg.jpg", "description": "De Valérios Tradicional <br> 1kg", "price": "R$  18,00" },
 
-        { "id": 212, "url":"?", "name": "Madrugada Pura Folha", "image": "imgprodutos/ervamatepura/Madrugada Pura Folha 1kg.jpg", "description": "Madrugada Pura Folha <br> 1kg", "price": "R$21,00" },
+        { "id": 212, "url":"?", "name": "Madrugada Pura Folha", "image": "imgprodutos/ervamatepura/Madrugada Pura Folha 1kg.jpg", "description": "Madrugada Pura Folha <br> 1kg", "price": "R$ 21,00" },
 
-        { "id": 213, "url":"?", "name": "Madrugada Requinte à vácuo", "image": "imgprodutos/ervamatepura/Madrugada Requinte à vácuo 1kg.jpg", "description": "Madrugada Requinte à vácuo <br> 1kg", "price": "R$ 22,00" },
+        { "id": 213, "url":"?", "name": "Madrugada Requinte à vácuo", "image": "imgprodutos/ervamatepura/Madrugada Requinte à vácuo 1kg.jpg", "description": "Madrugada Requinte à vácuo <br> 1kg", "price": "R$  22,00" },
 
-        { "id": 214, "url":"?", "name": "Ximango Tradicional à vácuo", "image": "imgprodutos/ervamatepura/Ximango Tradicional à vácuo 1kg.jpg", "description": "Ximango Tradicional à vácuo <br> 1kg", "price": "R$ 18,00" },
+        { "id": 214, "url":"?", "name": "Ximango Tradicional à vácuo", "image": "imgprodutos/ervamatepura/Ximango Tradicional à vácuo 1kg.jpg", "description": "Ximango Tradicional à vácuo <br> 1kg", "price": "R$  18,00" },
 
-        { "id": 215, "url":"?", "name": "Ximango Moída Grossa à vácuo", "image": "imgprodutos/ervamatepura/Ximango Moída Grossa à vácuo 1kg.jpg", "description": "Ximango Moída Grossa à vácuo 1kg e 500g", "price": "R$ 18,00" },
+        { "id": 215, "url":"?", "name": "Ximango Moída Grossa à vácuo", "image": "imgprodutos/ervamatepura/Ximango Moída Grossa à vácuo 1kg.jpg", "description": "Ximango Moída Grossa à vácuo 1kg e 500g", "price": "R$  18,00" },
 
-        { "id": 216, "url":"?", "name": "Urubici Premium à vácuo", "image": "imgprodutos/ervamatepura/Urubici Premium à vácuo 1kg.jpg", "description": "Urubici Premium à vácuo <br> 1kg", "price": "R$ 19,00" },
+        { "id": 216, "url":"?", "name": "Urubici Premium à vácuo", "image": "imgprodutos/ervamatepura/Urubici Premium à vácuo 1kg.jpg", "description": "Urubici Premium à vácuo <br> 1kg", "price": "R$  19,00" },
 
-        { "id": 217, "url":"?", "name": "Seiva Pura Nativa", "image": "imgprodutos/ervamatepura/Seiva Pura Nativa 1kg.jpg", "description": "Seiva Pura Nativa <br> 1kg", "price": "R$ 19,50" },
+        { "id": 217, "url":"?", "name": "Seiva Pura Nativa", "image": "imgprodutos/ervamatepura/Seiva Pura Nativa 1kg.jpg", "description": "Seiva Pura Nativa <br> 1kg", "price": "R$  19,50" },
 
-        { "id": 218, "url":"?", "name": "Seiva Pura Premium à vácuo", "image": "imgprodutos/ervamatepura/Seiva Pura Premium à vácuo 1kg.jpg", "description": "Seiva Pura Premium à vácuo <br> 1kg", "price": "R$ 24,00" },
+        { "id": 218, "url":"?", "name": "Seiva Pura Premium à vácuo", "image": "imgprodutos/ervamatepura/Seiva Pura Premium à vácuo 1kg.jpg", "description": "Seiva Pura Premium à vácuo <br> 1kg", "price": "R$  24,00" },
 
-        { "id": 219, "url":"?", "name": "Seiva Pura suave com açúcar", "image": "imgprodutos/ervamatepura/Seiva Pura suave (com açúcar)  1kg.jpg", "description": "Seiva Pura suave (com açúcar) <br> 1kg", "price": "R$ 19,50" },
+        { "id": 219, "url":"?", "name": "Seiva Pura suave com açúcar", "image": "imgprodutos/ervamatepura/Seiva Pura suave (com açúcar)  1kg.jpg", "description": "Seiva Pura suave (com açúcar) <br> 1kg", "price": "R$  19,50" },
 
-        { "id": 220, "url":"?", "name": "Cancheada Nativa", "image": "imgprodutos/ervamatepura/Cancheada Nativa 1kg.jpg", "description": "Cancheada Nativa <br> 1kg", "price": "R$ 18,00" },
+        { "id": 220, "url":"?", "name": "Cancheada Nativa", "image": "imgprodutos/ervamatepura/Cancheada Nativa 1kg.jpg", "description": "Cancheada Nativa <br> 1kg", "price": "R$  18,00" },
 
-        { "id": 221, "url":"?", "name": "Rei Verde Nobre a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Nobre a vácuo 1kg.jpg", "description": "Rei Verde Nobre a vácuo <br> 1kg", "price": "R$ 28,00" },
+        { "id": 221, "url":"?", "name": "Rei Verde Nobre a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Nobre a vácuo 1kg.jpg", "description": "Rei Verde Nobre a vácuo <br> 1kg", "price": "R$  28,00" },
 
-        { "id": 222, "url":"?", "name": "Rei Verde Tradicional a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Tradicional a vácuo 1kg.jpg", "description": "Rei Verde Tradicional a vácuo 1kg <br> 1kg", "price": "R$ 21,00" },
+        { "id": 222, "url":"?", "name": "Rei Verde Tradicional a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Tradicional a vácuo 1kg.jpg", "description": "Rei Verde Tradicional a vácuo 1kg <br> 1kg", "price": "R$  21,00" },
 
-        { "id": 223, "url":"?", "name": "Rei Verde suave com açúcar", "image": "imgprodutos/ervamatepura/Rei Verde suave (com açúcar) 1kg.jpg", "description": "Rei Verde suave (com açúcar) <br> 1kg", "price": "R$21,00" },
+        { "id": 223, "url":"?", "name": "Rei Verde suave com açúcar", "image": "imgprodutos/ervamatepura/Rei Verde suave (com açúcar) 1kg.jpg", "description": "Rei Verde suave (com açúcar) <br> 1kg", "price": "R$ 21,00" },
 
-        { "id": 224, "url":"?", "name": "Rei Verde Barbaquá a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Barbaquá a vácuo 1kg.jpg", "description": "Rei Verde Barbaquá a vácuo <br> 1kg", "price": "R$26,00" },
+        { "id": 224, "url":"?", "name": "Rei Verde Barbaquá a vácuo", "image": "imgprodutos/ervamatepura/Rei Verde Barbaquá a vácuo 1kg.jpg", "description": "Rei Verde Barbaquá a vácuo <br> 1kg", "price": "R$ 26,00" },
 
-        { "id": 225, "url":"?", "name": "Elacy Moída Grossa", "image": "imgprodutos/ervamatepura/Elacy Moída Grossa 1kg.jpg", "description": "Elacy Moída Grossa <br> 1kg", "price": "R$ 19,00" },
+        { "id": 225, "url":"?", "name": "Elacy Moída Grossa", "image": "imgprodutos/ervamatepura/Elacy Moída Grossa 1kg.jpg", "description": "Elacy Moída Grossa <br> 1kg", "price": "R$  19,00" },
 
-        { "id": 226, "url":"?", "name": "Mazutti Premium à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Premium à vácuo 1kg.jpg", "description": "Mazutti Premium à vácuo <br> 1kg", "price": "R$ 22,00" },
+        { "id": 226, "url":"?", "name": "Mazutti Premium à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Premium à vácuo 1kg.jpg", "description": "Mazutti Premium à vácuo <br> 1kg", "price": "R$  22,00" },
 
-        { "id": 227, "url":"?", "name": "Mazutti Tradicional  à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Tradicional  à vácuo 1kg.jpg", "description": "Mazutti Tradicional  à vácuo <br> 1kg", "price": "R$18,00" },
+        { "id": 227, "url":"?", "name": "Mazutti Tradicional  à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Tradicional  à vácuo 1kg.jpg", "description": "Mazutti Tradicional  à vácuo <br> 1kg", "price": "R$ 18,00" },
 
-        { "id": 228, "url":"?", "name": "Mazutti Moída Grossa à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Moída Grossa à vácuo 1kg.jpg", "description": "Mazutti Moída Grossa à vácuo <br> 1kg", "price": "R$18,00" },
+        { "id": 228, "url":"?", "name": "Mazutti Moída Grossa à vácuo", "image": "imgprodutos/ervamatepura/Mazutti Moída Grossa à vácuo 1kg.jpg", "description": "Mazutti Moída Grossa à vácuo <br> 1kg", "price": "R$ 18,00" },
 
-        { "id": 229, "url":"?", "name": "Ponche Verde Tradicional", "image": "imgprodutos/ervamatepura/Ponche Verde Tradicional 1kg.jpg", "description": "Ponche Verde Tradicional <br> 1kg", "price": "R$ 18,00" },
+        { "id": 229, "url":"?", "name": "Ponche Verde Tradicional", "image": "imgprodutos/ervamatepura/Ponche Verde Tradicional 1kg.jpg", "description": "Ponche Verde Tradicional <br> 1kg", "price": "R$  18,00" },
 
-        { "id": 230, "url":"?", "name": "Ponche Verde Moída Grossa", "image": "imgprodutos/ervamatepura/Ponche Verde Moída Grossa 1kg.jpg", "description": "Ponche Verde Moída Grossa <br> 1kg", "price": "R$ 18,00" },
+        { "id": 230, "url":"?", "name": "Ponche Verde Moída Grossa", "image": "imgprodutos/ervamatepura/Ponche Verde Moída Grossa 1kg.jpg", "description": "Ponche Verde Moída Grossa <br> 1kg", "price": "R$  18,00" },
 
-        { "id": 231, "url":"?", "name": "Barão Tradicional à vácuo", "image": "imgprodutos/ervamatepura/Barão Tradicional à vácuo 1kg.jpg", "description": "Barão Tradicional à vácuo <br> 1kg", "price": "R$20,00" },
+        { "id": 231, "url":"?", "name": "Barão Tradicional à vácuo", "image": "imgprodutos/ervamatepura/Barão Tradicional à vácuo 1kg.jpg", "description": "Barão Tradicional à vácuo <br> 1kg", "price": "R$ 20,00" },
 
-        { "id": 232, "url":"?", "name": "Barão Moída Grossa", "image": "imgprodutos/ervamatepura/Barão Moída Grossa 1kg.jpg", "description": "Barão Moída Grossa <br> 1kg", "price": "R$18,00" },
+        { "id": 232, "url":"?", "name": "Barão Moída Grossa", "image": "imgprodutos/ervamatepura/Barão Moída Grossa 1kg.jpg", "description": "Barão Moída Grossa <br> 1kg", "price": "R$ 18,00" },
 
-        { "id": 233, "url":"?", "name": "Jacutinga Tradicional", "image": "imgprodutos/ervamatepura/Jacutinga Tradicional 1kg.jpg", "description": "Jacutinga Tradicional <br> 1kg", "price": "R$ 15,00" },
+        { "id": 233, "url":"?", "name": "Jacutinga Tradicional", "image": "imgprodutos/ervamatepura/Jacutinga Tradicional 1kg.jpg", "description": "Jacutinga Tradicional <br> 1kg", "price": "R$  15,00" },
 
-        { "id": 234, "url":"?", "name": "Jacutinga Moída Grossa", "image": "imgprodutos/ervamatepura/Jacutinga Moída Grossa 1kg.jpg", "description": "Jacutinga Moída Grossa <br> 1kg", "price": "R$ 15,00" },
+        { "id": 234, "url":"?", "name": "Jacutinga Moída Grossa", "image": "imgprodutos/ervamatepura/Jacutinga Moída Grossa 1kg.jpg", "description": "Jacutinga Moída Grossa <br> 1kg", "price": "R$  15,00" },
 
-        { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamatepura/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$18,00" },
+        { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamatepura/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$ 18,00" },
 
-        { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamatepura/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$18,00" }
+        { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamatepura/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$ 18,00" }
         
         ],
 
     "Erva Mate Composta": [
-        { "id": 236, "url":"?", "name": "Brasão Verde Bergamota a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-bergamota-a-vácuo500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 236, "url":"?", "name": "Brasão Verde Bergamota a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-bergamota-a-vácuo500g.jpg", "description": "Description for product B1", "price": "R$  17,00" },
 
-        { "id": 237, "url":"?", "name": "Brasão Verde Menta a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-Verde-menta-à-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 237, "url":"?", "name": "Brasão Verde Menta a vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-Verde-menta-à-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$  17,00" },
    
-        { "id": 238, "url":"?", "name": "Brasão Verde Vanilla Ice com Pêssego Vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-vanilla-ice-com-pêssegoa-vácuo-500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 238, "url":"?", "name": "Brasão Verde Vanilla Ice com Pêssego Vácuo", "image": "imgprodutos/ervamatecomposto/Brasão-verde-vanilla-ice-com-pêssegoa-vácuo-500g.jpg", "description": "Description for product B1", "price": "R$ 17,00," },
 
-        { "id": 239, "url":"?", "name": "Ximango Menta a Vácuo", "image": "imgprodutos/ervamatecomposto/ximango-menta-a-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 239, "url":"?", "name": "Ximango Menta a Vácuo", "image": "imgprodutos/ervamatecomposto/ximango-menta-a-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$ 14,00" },
     
-        { "id": 240, "url":"?", "name": "Madrugada Carqueja Camomila Erva Doce Nacional e Cidreira", "image": "imgprodutos/ervamatecomposto/madrugada-Carqueja-camomila-erva-doce-nacional-e-cidreira-500g .jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 240, "url":"?", "name": "Madrugada Carqueja Camomila Erva Doce Nacional e Cidreira", "image": "imgprodutos/ervamatecomposto/madrugada-Carqueja-camomila-erva-doce-nacional-e-cidreira-500g .jpg", "description": "Description for product B1", "price": "R$ 13,00" },
 
-        { "id": 241, "url":"?", "name": "Madrugada Cascaritas", "image": "imgprodutos/ervamatecomposto/Madrugada-cascaritas-500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 241, "url":"?", "name": "Madrugada Cascaritas", "image": "imgprodutos/ervamatecomposto/Madrugada-cascaritas-500g.jpg", "description": "Description for product B2", "price": "R$ 13,00" },
     
-        { "id": 242, "url":"?", "name": "Madrugada com Chás", "image": "imgprodutos/ervamatecomposto/madrugada-com-chás.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 242, "url":"?", "name": "Madrugada com Chás", "image": "imgprodutos/ervamatecomposto/madrugada-com-chás.jpg", "description": "Description for product B1", "price": "R$ 13,00" },
 
-        { "id": 243, "url":"?", "name": "Madrugada Menta e Gengibre", "image": "imgprodutos/ervamatecomposto/madrugada-menta-e-gengibre-500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 243, "url":"?", "name": "Madrugada Menta e Gengibre", "image": "imgprodutos/ervamatecomposto/madrugada-menta-e-gengibre-500g.jpg", "description": "Description for product B2", "price": "R$ 13,00" },
         
-        { "id": 244, "url":"?", "name": "Barão com Chás", "image": "imgprodutos/ervamatecomposto/barão-com-chás-500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 244, "url":"?", "name": "Barão com Chás", "image": "imgprodutos/ervamatecomposto/barão-com-chás-500g.jpg", "description": "Description for product B1", "price": "R$ 14,50" },
 
-        { "id": 245, "url":"?", "name": "Barão Menta", "image": "imgprodutos/ervamatecomposto/barão-menta-500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 245, "url":"?", "name": "Barão Menta", "image": "imgprodutos/ervamatecomposto/barão-menta-500g.jpg", "description": "Description for product B2", "price": "R$ 14,50" },
     
-        { "id": 246, "url":"?", "name": "Vier Cítrico", "image": "imgprodutos/ervamatecomposto/vier-cítrico-500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 246, "url":"?", "name": "Vier Cítrico", "image": "imgprodutos/ervamatecomposto/vier-cítrico-500g.jpg", "description": "Description for product B1", "price": "R$ 14,50" },
 
-        { "id": 247, "url":"?", "name": "Mate Nativo Menta e Laranja a Vácuo", "image": "imgprodutos/ervamatecomposto/mate-nativo-Menta-e-Laranja-a-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$40" }
+        { "id": 247, "url":"?", "name": "Mate Nativo Menta e Laranja a Vácuo", "image": "imgprodutos/ervamatecomposto/mate-nativo-Menta-e-Laranja-a-vácuo-500g.jpg", "description": "Description for product B2", "price": "R$ 17,00" }
     ],
 
     "Yerba Mate": [
-        { "id": 248, "url":"?", "name": "Rosamonte 500g", "image": "imgprodutos/yerbamate/Rosamonte 500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 248, "url":"?", "name": "Rosamonte 500g", "image": "imgprodutos/yerbamate/Rosamonte 500g.jpg", "description": "Description for product B1", "price": "R$ 22,00" },
 
-        { "id": 249, "url":"?", "name": "Rosamonte Suave 500g", "image": "imgprodutos/yerbamate/Rosamonte Suave 500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 249, "url":"?", "name": "Rosamonte Suave 500g", "image": "imgprodutos/yerbamate/Rosamonte Suave 500g.jpg", "description": "Description for product B2", "price": "R$ 23,50" },
 
-        { "id": 250, "url":"?", "name": "Baldo padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Baldo padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 250, "url":"?", "name": "Baldo padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Baldo padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "R$ 26,00" },
 
-        { "id": 251, "url":"?", "name": "Baldo padrão uruguaio 500g", "image": "imgprodutos/yerbamate/Baldo tipo uruguaia 500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 251, "url":"?", "name": "Baldo padrão uruguaio 500g", "image": "imgprodutos/yerbamate/Baldo tipo uruguaia 500g.jpg", "description": "Description for product B2", "price": "R$ 16,00" },
 
-        { "id": 252, "url":"?", "name": "Canarias padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Canarias padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 252, "url":"?", "name": "Canarias padrão uruguaio 1kg", "image": "imgprodutos/yerbamate/Canarias padrão uruguaio 1kg.jpg", "description": "Description for product B1", "price": "R$ 27,00" },
         
-        { "id": 253, "url":"?", "name": "Rei verde tipo argentina 500g", "image": "imgprodutos/yerbamate/Rei Verde 500g tipo argentina.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 253, "url":"?", "name": "Rei verde tipo argentina 500g", "image": "imgprodutos/yerbamate/Rei Verde 500g tipo argentina.jpg", "description": "Description for product B1", "price": "R$ 13,00" },
         
-        { "id": 254, "url":"?", "name": "Barão tradicional tipo argentina 500g", "image": "imgprodutos/yerbamate/Barão 500g (tipo argentina).jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 254, "url":"?", "name": "Barão tradicional tipo argentina 500g", "image": "imgprodutos/yerbamate/Barão 500g (tipo argentina).jpg", "description": "Description for product B1", "price": "R$ 13,00" },
 
-        { "id": 255, "url":"?", "name": "Barão tipo uruguaia 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia 1kg.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 255, "url":"?", "name": "Barão tipo uruguaia 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia 1kg.jpg", "description": "Description for product B1", "price": "R$ 20,00" },
 
-        { "id": 256, "url":"?", "name": "Barão tipo uruguaia composta ervas 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia composta ervas 1kg.jpg", "description": "Description for product B1", "price": "R$30,00" }
+        { "id": 256, "url":"?", "name": "Barão tipo uruguaia composta ervas 1kg", "image": "imgprodutos/yerbamate/Barão tipo uruguaia composta ervas 1kg.jpg", "description": "Description for product B1", "price": "R$ 21,00" }
     ],
 
     "Tereré": [
-        { "id": 257, "url":"?", "name": "Barão sabor Natural 500g", "image": "imgprodutos/terere/Barão sabor Natural 500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 257, "url":"?", "name": "Barão sabor Natural 500g", "image": "imgprodutos/terere/Barão sabor Natural 500g.jpg", "description": "Description for product B1", "price": "R$ 11,00" },
 
-        { "id": 258, "url":"?", "name": "Barão Menta e Limão 500g", "image": "imgprodutos/terere/Barão Menta e Limão 500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 258, "url":"?", "name": "Barão Menta e Limão 500g", "image": "imgprodutos/terere/Barão Menta e Limão 500g.jpg", "description": "Description for product B2", "price": "R$ 13,00" },
 
-        { "id": 259, "url":"?", "name": "Barão Menta e Boldo 500g", "image": "imgprodutos/terere/Barão Menta e Boldo 500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 259, "url":"?", "name": "Barão Menta e Boldo 500g", "image": "imgprodutos/terere/Barão Menta e Boldo 500g.jpg", "description": "Description for product B1", "price": "R$ 13,00" },
 
-        { "id": 260, "url":"?", "name": "Barão Black Menta 500g", "image": "imgprodutos/terere/Barão Black Menta 500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 260, "url":"?", "name": "Barão Black Menta 500g", "image": "imgprodutos/terere/Barão Black Menta 500g.jpg", "description": "Description for product B2", "price": "R$ 13,00" },
 
-        { "id": 261, "url":"?", "name": "Barão Abacaxi e Hortelã 500g", "image": "imgprodutos/terere/Barão Abacaxi e Hortelã 500g.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 261, "url":"?", "name": "Barão Abacaxi e Hortelã 500g", "image": "imgprodutos/terere/Barão Abacaxi e Hortelã 500g.jpg", "description": "Description for product B1", "price": "R$ 13,00" },
 
-        { "id": 262, "url":"?", "name": "Kurupí Paraguaia com Anís 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Anís 500g.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 262, "url":"?", "name": "Kurupí Paraguaia com Anís 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Anís 500g.jpg", "description": "Description for product B2", "price": "R$ 20,00" },
 
-        { "id": 263, "url":"?", "name": "Kurupí Paraguaia com Gengibre Menta e Chá Verde 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Gengibre,  Menta e Chá Verde 500g.jpg", "description": "Description for product B1", "price": "R$30,00" }
+        { "id": 263, "url":"?", "name": "Kurupí Paraguaia com Gengibre Menta e Chá Verde 500g", "image": "imgprodutos/terere/Kurupí (Paraguaia) com Gengibre,  Menta e Chá Verde 500g.jpg", "description": "Description for product B1", "price": "R$ 20,00" }
     ],
 
     "Kits Chimarrao": [
         
-        { "id": 401, "url":"?", "name": "kit Matetri golden quadriculado", "image": "imgprodutos/kits/Kit Matetri Golden quadriculado 3 peças com térmica de 1 litro.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$310,00" },
+        { "id": 401, "url":"?", "name": "kit Matetri golden quadriculado", "image": "imgprodutos/kits/Kit Matetri Golden quadriculado 3 peças com térmica de 1 litro.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" },
 
-        { "id": 402, "url":"?", "name": "kit Matetri golden Azul turquesa", "image": "imgprodutos/kits/Kit Matetri Golden 3 peças com térmica de 1 litro Azul turquesa.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$310,00" },
+        { "id": 402, "url":"?", "name": "kit Matetri golden Azul turquesa", "image": "imgprodutos/kits/Kit Matetri Golden 3 peças com térmica de 1 litro Azul turquesa.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" },
 
-        { "id": 403, "url":"?", "name": "kit Matetri golden Marrom claro ", "image": "imgprodutos/kits/Kit Matetri Golden 3 peças com térmica de 1 litro Marrom Claro.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$310,00" },
+        { "id": 403, "url":"?", "name": "kit Matetri golden Marrom claro ", "image": "imgprodutos/kits/Kit Matetri Golden 3 peças com térmica de 1 litro Marrom Claro.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" },
         
-        { "id": 404, "url":"?", "name": "kit Matetri golden Marrom escuro ", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1 litro Marrom escuro.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$330,00" },
+        { "id": 404, "url":"?", "name": "kit Matetri golden Marrom escuro ", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1 litro Marrom escuro.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 330,00" },
         
-        { "id": 405, "url":"?", "name": "kit matetri Delux Golden Preto Croco ", "image": "imgprodutos/kits/Kit Matetri Delux Golden 3 peças com térmica de 1 litro Preto Croco.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$290,00" },
+        { "id": 405, "url":"?", "name": "kit matetri Delux Golden Preto Croco ", "image": "imgprodutos/kits/Kit Matetri Delux Golden 3 peças com térmica de 1 litro Preto Croco.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 290,00" },
         
-        { "id": 406, "url":"?", "name": " kit Matetri com alça de corrente Golden Bege", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1 litro Bege.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$330,00" },
+        { "id": 406, "url":"?", "name": " kit Matetri com alça de corrente Golden Bege", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1 litro Bege.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 330,00" },
 
-        { "id": 407, "url":"?", "name": "kit Matetri com alça de corrente Golden Marrom claro", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1,8 litros Marrom claro.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate", "price": "R$380,00" },
+        { "id": 407, "url":"?", "name": "kit Matetri com alça de corrente Golden Marrom claro", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1,8 litros Marrom claro.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate", "price": "R$ 380,00" },
 
-        { "id": 408, "url":"?", "name": "Kit Matetri níquel", "image": "imgprodutos/kits/Kit Matetri níquel 3 peças com térmica de 1 litro Preto.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$310,00" },
+        { "id": 408, "url":"?", "name": "Kit Matetri níquel Preto", "image": "imgprodutos/kits/Kit Matetri níquel 3 peças com térmica de 1 litro Preto.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" },
 
-        { "id": 409, "url":"?", "name": "Kit Matetri com alça de corrente Golden Preto croco", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1,8 litros Preto croco.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate", "price": "R$380,00" },
+        { "id": 409, "url":"?", "name": "Kit Matetri com alça de corrente Golden Preto croco", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1,8 litros Preto croco.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate", "price": "R$ 380,00" },
         
-        { "id": 410, "url":"?", "name": "kit Matetri com alça de corrente Golden Preto", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1,8 litros Preto.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate", "price": "R$380,00" },
+        { "id": 410, "url":"?", "name": "kit Matetri com alça de corrente Golden Preto", "image": "imgprodutos/kits/Kit Matetri com alça de corrente Golden 3 peças com térmica de 1,8 litros Preto.jpg", "description": "Composição: Mateira com alça de ombro com corrente <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate", "price": "R$ 380,00" },
         
-        { "id": 411, "url":"?", "name": "kit Matetri com alça de ombro Níquel", "image": "imgprodutos/kits/Kit Matetri com alça de ombro Níquel 5 peças com térmica de 1,8 litros Estampa Louis Vuitton.jpg", "description": "Composição: Mateira com alça de ombro <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate <br></br> Cuia de porongo <br></br> Tapa Erva", "price": "R$390,00" },
+        { "id": 411, "url":"?", "name": "kit Matetri com alça de ombro Níquel Louis Vuitton", "image": "imgprodutos/kits/Kit Matetri com alça de ombro Níquel 5 peças com térmica de 1,8 litros Estampa Louis Vuitton.jpg", "description": "Composição: Mateira com alça de ombro <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate <br></br> Cuia de porongo <br></br> Tapa Erva", "price": "R$ 390,00" },
         
-        { "id": 412, "url":"?", "name": "kit  Matetri com alça de ombro Níquel Rosa Croco", "image": "imgprodutos/kits/Kit Matetri com alça de ombro Níquel 3 peças com térmica de 1,8 litros Rosa croco.jpg", "description": "Composição: Mateira com alça de ombro <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate", "price": "R$360,00" },
+        { "id": 412, "url":"?", "name": "kit  Matetri com alça de ombro Níquel Rosa Croco", "image": "imgprodutos/kits/Kit Matetri com alça de ombro Níquel 3 peças com térmica de 1,8 litros Rosa croco.jpg", "description": "Composição: Mateira com alça de ombro <br></br> Garrafa termolar de pressão 1,8 litro <br></br>Porta Erva Mate", "price": "R$ 330,00" },
         
-        { "id": 413, "url":"?", "name": "Kit Chimabag Vinho", "image": "imgprodutos/kits/Kit Chimabag 3 peças com térmica 1 litro.jpg", "description": "Description for product B2", "price": "R$310,00" },
+        { "id": 413, "url":"?", "name": "Kit Chimabag Vinho", "image": "imgprodutos/kits/Kit Chimabag 3 peças com térmica 1 litro.jpg", "description": "Description for product B2", "price": "R$ 310,00" },
         
-        { "id": 414, "url":"?", "name": "Kit Chimabag Branco", "image": "imgprodutos/kits/Kit Chimabag 3 peças com térmica 1 L cor Branco.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$295,00" },
+        { "id": 414, "url":"?", "name": "Kit Chimabag Branco", "image": "imgprodutos/kits/Kit Chimabag 3 peças com térmica 1 L cor Branco.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 295,00" },
         
-        { "id": 415, "url":"?", "name": "kit Chimabag Marrom Claro", "image": "imgprodutos/kits/Kit Chimabag 3 peças com térmica 1 L cor Marrom Claro.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$310,00" },
+        { "id": 415, "url":"?", "name": "kit Chimabag Marrom Claro", "image": "imgprodutos/kits/Kit Chimabag 3 peças com térmica 1 L cor Marrom Claro.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" },
         
-        { "id": 416, "url":"?", "name": "Kit Chimabag Estampas Flores", "image": "imgprodutos/kits/Kit Chimabag 3 peças com térmica 1 L estampa Flores.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$295,00" },
+        { "id": 416, "url":"?", "name": "Kit Chimabag Estampas Flores", "image": "imgprodutos/kits/Kit Chimabag 3 peças com térmica 1 L estampa Flores.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 295,00" },
 
-        { "id": 417, "url":"?", "name": "Kit Dallas Xadrez", "image": "imgprodutos/kits/Kit Dallas 3 peças com térmica 1 L Xadrez.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$310,00" },
+        { "id": 417, "url":"?", "name": "Kit Dallas Xadrez", "image": "imgprodutos/kits/Kit Dallas 3 peças com térmica 1 L Xadrez.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" },
 
-        { "id": 418, "url":"?", "name": "Kit Dallas Verde Militar", "image": "imgprodutos/kits/Kit Dallas 3 peças com térmica 1 L Verde Militar.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$310,00" },
+        { "id": 418, "url":"?", "name": "Kit Dallas Verde Militar", "image": "imgprodutos/kits/Kit Dallas 3 peças com térmica 1 L Verde Militar.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" },
 
-        { "id": 419, "url":"?", "name": "Kit Dallas Preto", "image": "imgprodutos/kits/Kit Dallas 3 peças com térmica 1 L preto.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$310,00" }
+        { "id": 419, "url":"?", "name": "Kit Dallas Preto", "image": "imgprodutos/kits/Kit Dallas 3 peças com térmica 1 L preto.jpg", "description": "Composição: Mateira de tecido reforçada <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" }
 
 
         
@@ -210,47 +210,83 @@
     ],
 
     "Bombas Chimarrao": [
-        { "id": 501, "url":"?", "name": "Bomba fixa aplique bocal duplo e resfriador", "image": "imgprodutos/bombas/bomba-fixa-aplique-bocal-duplo-e-resfriador.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 501, "url":"?", "name": "Bomba fixa aplique bocal duplo e resfriador", "image": "imgprodutos/bombas/bomba-fixa-aplique-bocal-duplo-e-resfriador.jpg", "description": "Description for product B1", "price": "R$ 42,00" },
 
-        { "id": 502, "url":"?", "name": "Bomba fixa com gravação", "image": "imgprodutos/bombas/bomba-fixa-com-gravacao.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 502, "url":"?", "name": "Bomba fixa com gravação", "image": "imgprodutos/bombas/bomba-fixa-com-gravacao.jpg", "description": "Description for product B2", "price": "R$ 38,00" },
         
-        { "id": 503, "url":"?", "name": "Bombas fixas apliques", "image": "imgprodutos/bombas/bombas-fixas-apliques.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 503, "url":"?", "name": "Bombas fixas apliques", "image": "imgprodutos/bombas/bombas-fixas-apliques.jpg", "description": "Description for product B1", "price": "R$ 25,00" },
 
-        { "id": 504, "url":"?", "name": "Bombas fixas", "image": "imgprodutos/bombas/bombas-fixas.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 504, "url":"?", "name": "Bombas fixas", "image": "imgprodutos/bombas/bombas-fixas.jpg", "description": "Description for product B2", "price": "R$ 40" },
 
-        { "id": 505, "url":"?", "name": "Bombas fixa pedra agata", "image": "imgprodutos/bombas/bombas-fixa-pedra-agata.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 505, "url":"?", "name": "Bombas fixa pedra agata", "image": "imgprodutos/bombas/bombas-fixa-pedra-agata.jpg", "description": "Description for product B1", "price": "R$ 30,00" },
 
-        { "id": 506, "url":"?", "name": "Bombas desmontaveis banhada ouro", "image": "imgprodutos/bombas/Bombas-desmontaveis-banhada-ouro.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 506, "url":"?", "name": "Bombas desmontaveis banhada ouro", "image": "imgprodutos/bombas/Bombas-desmontaveis-banhada-ouro.jpg", "description": "Description for product B2", "price": "R$ 120,00" },
 
-        { "id": 507, "url":"?", "name": "Bombas desmontaveis com apliques", "image": "imgprodutos/bombas/bombas-desmontaveis-com-apliques2.jpg", "description": "Description for product B1", "price": "R$30,00" },
+        { "id": 507, "url":"?", "name": "Bombas desmontaveis com apliques", "image": "imgprodutos/bombas/bombas-desmontaveis-com-apliques2.jpg", "description": "Description for product B1", "price": "R$ 30,00" },
 
-        { "id": 508, "url":"?", "name": "Bombas desmontaveis pedra agata", "image": "imgprodutos/bombas/bombas-desmontaveis-pedra-agata.jpg", "description": "Description for product B2", "price": "R$40" }
+        { "id": 508, "url":"?", "name": "Bombas desmontaveis pedra agata", "image": "imgprodutos/bombas/bombas-desmontaveis-pedra-agata.jpg", "description": "Description for product B2", "price": "R$ 78,00" }
     ],
 
     "Cuias Personalizadas": [
 
-        { "id": 601, "url":"?", "name": "Cuia porongo tradicional com base", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base.jpg", "description": "Description for product B1","longDescription": "Long description for product A1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": "R$30,00" },
+        { "id": 601, "url":"?", "name": "Cuia porongo tradicional com base", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base.jpg", "description": "Description for product B1","longDescription": "Long description for product A1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": "R$ 49,00" },
 
-        { "id": 602, "url":"?", "name": "Cuia porongo tradicional com base de metal", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base-metal.jpg", "description": "Description for product B2", "price": "R$40" },
+        { "id": 602, "url":"?", "name": "Cuia porongo tradicional com base de metal", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base-metal.jpg", "description": "Description for product B2", "price": "R$ 59,00" },
 
-        { "id": 603, "url":"?", "name": "Cuia de madeira imbuia", "image": "imgprodutos/cuias/cuia-madeira-imbuia.jpg", "description": "Description for product B1", "price": "R$50" },
+        { "id": 603, "url":"?", "name": "Cuia de madeira imbuia", "image": "imgprodutos/cuias/cuia-madeira-imbuia.jpg", "description": "Description for product B1", "price": "R$ 69,00" },
 
-        { "id": 604, "url":"?", "name": "Cuia de madeira com pé", "image": "imgprodutos/cuias/cuia-madeira-com-pe.jpg", "description": "Description for product B1", "price": "R$20" },
+        { "id": 604, "url":"?", "name": "Cuia de madeira com pé", "image": "imgprodutos/cuias/cuia-madeira-com-pe.jpg", "description": "Description for product B1", "price": "R$ 69,00" },
     
-        { "id": 605, "url":"?", "name": "Cuia de cerâmica", "image": "imgprodutos/cuias/cuia-de-ceramica.jpg", "description": "Description for product B1", "price": "R$20" },
+        { "id": 605, "url":"?", "name": "Cuia de cerâmica", "image": "imgprodutos/cuias/cuia-de-ceramica.jpg", "description": "Description for product B1", "price": "R$ 40,00" },
     
-        { "id": 606, "url":"?", "name": "cuia bago de touro curtida", "image": "imgprodutos/cuias/cuia-bago-de-touro-curtida.jpg", "description": "Description for product B1", "price": "R$20" },
+        { "id": 606, "url":"?", "name": "Cuia bago de touro curtida", "image": "imgprodutos/cuias/cuia-bago-de-touro-curtida.jpg", "description": "Description for product B1", "price": "R$ 55,00" },
     
-        { "id": 607, "url":"?", "name": "coquinho com bombas simples", "image": "imgprodutos/cuias/coquinho-com-bombas-simples.jpg", "description": "Description for product B1", "price": "R$20" },
+        { "id": 607, "url":"?", "name": "Coquinho com bombas simples", "image": "imgprodutos/cuias/coquinho-com-bombas-simples.jpg", "description": "Description for product B1", "price": "R$ 38,00" },
     
-        { "id": 608, "url":"?", "name": "coquinho com bocal em aluminio e suporte em couro", "image": "imgprodutos/cuias/coquinho-com-bocal-em-aluminio-e-suporte-em couro.jpg", "description": "Description for product B1", "price": "R$20" },
+        { "id": 608, "url":"?", "name": "Coquinho com bocal em aluminio e suporte em couro", "image": "imgprodutos/cuias/coquinho-com-bocal-em-aluminio-e-suporte-em couro.jpg", "description": "Description for product B1", "price": "R$ 110,00" },
     
-        { "id": 609, "url":"?", "name": "cuia uruguaias", "image": "imgprodutos/cuias/cuia-uruguaias.jpg", "description": "Description for product B1", "price": "R$20" }
+        { "id": 609, "url":"?", "name": "Cuia uruguaias", "image": "imgprodutos/cuias/cuia-uruguaias.jpg", "description": "Description for product B1", "price": "R$ 120,00" },
+
+        { "id": 610, "url":"?", "name": "Cuias Porongo Trabalhadas tamanho pequeno ", "image": "imgprodutos/cuias/Cuias Porongo Trabalhadas tamanho pequeno.jpg", "description": "Description for product B1", "price": "R$ 85,00" },
     
-    
-    
-    
-    
-    
+        { "id": 610, "url":"?", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (1).jpg", "description": "Description for product B1", "price": "R$ 70,00" },
+
+        { "id": 611, "url":"?", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (2).jpg", "description": "Description for product B1", "price": "R$ 70,00" },
+
+        { "id": 612, "url":"?", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (3).jpg", "description": "Description for product B1", "price": "R$ 70,00" },
+
+        { "id": 613, "url":"?", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (4).jpg", "description": "Description for product B1", "price": "R$ 70,00" },
+
+        { "id": 614, "url":"?", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (5).jpg", "description": "Description for product B1", "price": "R$ 70,00" },
+
+        { "id": 615, "url":"?", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (6).jpg", "description": "Description for product B1", "price": "R$ 70,00" },
+
+        { "id": 616, "url":"?", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (7).jpg", "description": "Description for product B1", "price": "R$ 70,00" },
+
+        { "id": 617, "url":"?", "name": "Cuia Madeira Imbuia Bicolor Preto", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Preta.jpg", "description": "Description for product B1", "price": "R$ 80,00" },
+            
+        { "id": 618, "url":"?", "name": "Cuia Madeira Imbuia Bicolor Branca", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Branca.jpg", "description": "Description for product B1", "price": "R$ 80,00" },
+            
+        { "id": 619, "url":"?", "name": "Cuia Madeira Imbuia Bicolor Azul Escuro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Azul Escuro.jpg", "description": "Description for product B1", "price": "R$ 80,00" },
+        
+        { "id": 620, "url":"?", "name": "Cuia Madeira Imbuia Bicolor Azul Claro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Azul claro.jpg", "description": "Description for product B1", "price": "R$ 80,00" },
+
+        { "id": 621, "url":"?", "name": "Cuia Madeira Imbuia Bicolor Nude", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor nude.jpg", "description": "Description for product B1", "price": "R$ 80,00" },
+        
+        { "id": 622, "url":"?", "name": "Cuia Madeira Imbuia Bicolor Vermelha", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor vermelha.jpg", "description": "Description for product B1", "price": "R$ 80,00" },
+        
+        { "id": 623, "url":"?", "name": "Cuia Madeira Imbuia Bicolor Rosa Pink", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor rosa pink.jpg", "description": "Description for product B1", "price": "R$ 80,00" },
+        
+        { "id": 624, "url":"?", "name": "Cuia Madeira Imbuia Bicolor Nude", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor lilás.jpg", "description": "Description for product B1", "price": "R$ 80,00" },
+        
+        { "id": 625, "url":"?", "name": "Cuia Madeira Imbuia Bicolor rosa claro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor rosa claro.jpg", "description": "Description for product B1", "price": "R$ 80,00" }
+
+
+
+
+
+
+
+
     ]
 }
