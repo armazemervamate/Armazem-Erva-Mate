@@ -10327,3 +10327,32 @@ a {
     padding: 7px;
   }
 }
+.whats {
+  position:fixed; 
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  box-shadow: 0 0 0 0 rgba(10, 202, 58, 0.89);
+  z-index:1000; 
+  animation: alerta 1.5s infinite;
+}
+
+@keyframes alerta {
+  0% {
+    transform: scale();
+  }
+  70% {
+    transform: scale();
+    box-shadow: 0 0 0 50px rgba(69, 152, 27, 0);
+  }
+    100% {
+    transform: scale();
+    box-shadow: 0 0 0 0 rgba(69, 152, 27, 0);
+  }
+}
