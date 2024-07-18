@@ -89,7 +89,7 @@
         <!-- Outros conteúdos da seção -->
 </div>
 
-<section data-bs-version="5.1" class="news08 cid-uh7EP2PkSF" id="news08-3o">
+<!-- <section data-bs-version="5.1" class="news08 cid-uh7EP2PkSF" id="news08-3o">
   
   
   <div class="container-fluid">
@@ -104,7 +104,7 @@
         </div>
       </div>
     </div>
-</section>
+</section> -->
 
 <section data-bs-version="5.1" class="pricing02 cid-uhWwv2fb4Y" id="pricing02-0">
     
@@ -118,42 +118,93 @@
   </div>
 
   <script>
-      async function fetchProducts() {
-          const response = await fetch('produtos.json');
-          const products = await response.json();
-          return products["Bombas Chimarrao"];
-      }
-
-      function displayProducts(products) {
-          const container = document.getElementById('product-container');
-          container.innerHTML = '';
-          products.forEach(product => {
-              const productElement = document.createElement('div');
-              productElement.className = 'item features-image col-12 col-md-6 col-lg-3';
-              productElement.innerHTML = `
-                 <div class="item-wrapper">
-                    <div class="item-img">
-                        <a href="produto.html?id=${product.id}">
-                        <img src="${product.image}" alt="${product.name}" title="" data-slide-to="0" data-bs-slide-to="0">
-                        </a>
-                    </div>
-                    <div class="item-content align-left">
-                        <h5 class="item-title mbr-fonts-style display-5">${product.name}</h5>
-                        <div class="item-subtitle-wrapper">
-                        <h6 class="item-subtitle mbr-fonts-style display-7"><strong>${product.price}</strong></h6>
-                        </div>
-                    </div>
-                    </div>
-              `;
-              container.appendChild(productElement);
-          });
-      }
-
-      window.onload = async () => {
-          const products = await fetchProducts();
-          displayProducts(products);
+    async function fetchProducts() {
+      const response = await fetch('produtos.json');
+      const products = await response.json();
+      return {
+        desmontavel: products["Desmontável"],
+        fixa: products["Fixa"]
       };
-  </script>
+    }
+
+    function createTitle(titleText, subtitleText) {
+      const titleElement = document.createElement('div');
+      titleElement.className = 'col-12 content-head';
+      titleElement.innerHTML = `
+        <div class="mbr-section-head">
+          <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+            <strong>${titleText}</strong><strong><br></strong><strong><br></strong>
+          </h4>
+          <h5 class="mbr-section-subtitle mbr-fonts-style align-center mt-4 mb-0 display-7">
+            ${subtitleText}
+          </h5>
+        </div>
+      `;
+      return titleElement;
+    }
+
+    function displayProducts(products, containerId) {
+      const container = document.getElementById(containerId);
+      products.forEach(product => {
+        const productElement = document.createElement('div');
+        productElement.className = 'item features-image col-12 col-md-6 col-lg-3';
+        productElement.innerHTML = `
+          <div class="item-wrapper">
+            <div class="item-img hovercard-custom">
+              <a href="produto.html?id=${product.id}">
+                <img src="${product.image}" alt="${product.name}" title="" data-slide-to="0" data-bs-slide-to="0">
+              </a>
+            </div>
+            <div class="item-content align-left">
+              <h5 class="item-title mbr-fonts-style display-5">${product.name}</h5>
+              <div class="item-subtitle-wrapper">
+                <h6 class="item-subtitle mbr-fonts-style display-7"><strong>${product.price}</strong></h6>
+              </div>
+            </div>
+          </div>
+        `;
+        container.appendChild(productElement);
+      });
+    }
+
+    window.onload = async () => {
+      const products = await fetchProducts();
+
+      // Cria um título para a linha "Desmontável"
+      let container = document.getElementById('product-container');
+      let newTitle = createTitle('Desmontável', 'Explore nossa linha de produtos Desmontáveis');
+      let newRow = document.createElement('div');
+      newRow.className = 'row justify-content-center mb-5';
+      newRow.appendChild(newTitle);
+      container.parentNode.insertBefore(newRow, container.nextSibling);
+
+      // Adiciona um novo container para a linha "Desmontável"
+      let newContainer = document.createElement('div');
+      newContainer.id = 'desmontavel-container';
+      newContainer.className = 'row';
+      newRow.parentNode.insertBefore(newContainer, newRow.nextSibling);
+
+      // Exibe produtos da linha "Desmontável"
+      displayProducts(products.desmontavel, 'desmontavel-container');
+
+      // Cria um título para a linha "Fixa"
+      newTitle = createTitle('Fixa', 'Explore nossa linha de produtos Fixos');
+      newRow = document.createElement('div');
+      newRow.className = 'row justify-content-center mb-5';
+      newRow.appendChild(newTitle);
+      newContainer.parentNode.insertBefore(newRow, newContainer.nextSibling);
+
+      // Adiciona um novo container para a linha "Fixa"
+      newContainer = document.createElement('div');
+      newContainer.id = 'fixa-container';
+      newContainer.className = 'row';
+      newRow.parentNode.insertBefore(newContainer, newRow.nextSibling);
+
+      // Exibe produtos da linha "Fixa"
+      displayProducts(products.fixa, 'fixa-container');
+    };
+</script>
+
 </section>
 
 <!-- PAGINA ANTERIOR/ PROXIMA PAGINA
