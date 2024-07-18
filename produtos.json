@@ -1,5 +1,5 @@
 {
-    "Acessorios Chimarrao": [
+    "Acessórios": [
         { "id": 101, "url":"?", "name": "Cevador com frases", "image": "imgprodutos/acessorios/cevador-com-frases2.jpg", "description": "Description for product A1", "price": "R$ 11,00" },
 
         { "id": 102, "url":"?", "name": "Cevador Galante ", "image": "imgprodutos/acessorios/cevador-galante2.jpg", "description": "Description for product A2", "price": "R$ 11,00" },
@@ -26,7 +26,7 @@
 
 ],
 
-    "Erva Mate Pura": [
+    "Erva Mate Chimarrão": [
         { "id": 201, "url":"?", "name": "Mate Nativo Premium", "image": "imgprodutos/ervamate/Mate Nativo Premium 1kg.jpg", "description": "Erva premium com folhas selecionadas<br> 1KG", "price": "R$  21,00" },
 
         { "id": 202, "url":"?", "name": "Mate Nativo Original", "image": "imgprodutos/ervamate/Mate Nativo original 1kg.jpg", "description": "Erva Mate Nativo Tracional<br> 1KG", "price": "R$  19,00" },
@@ -95,10 +95,8 @@
 
         { "id": 234, "url":"?", "name": "Jacutinga Moída Grossa", "image": "imgprodutos/ervamate/Jacutinga Moída Grossa 1kg.jpg", "description": "Jacutinga Moída Grossa <br> 1kg", "price": "R$  15,00" },
 
-        { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamate/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$ 18,00" },
-
         { "id": 235, "url":"?", "name": "Charrua Moída Grossa", "image": "imgprodutos/ervamate/Charrua Moída Grossa  1kg.jpg", "description": "Charrua Moída Grossa <br> 1kg", "price": "R$ 18,00" }
-        
+
         ],
 
     "Erva Mate Composta": [
@@ -121,6 +119,8 @@
         { "id": 244, "url":"?", "name": "Barão com Chás", "image": "imgprodutos/ervamate/composto/barão-com-chás-500g.jpg", "description": "Description for product B1", "price": "R$ 14,50" },
 
         { "id": 245, "url":"?", "name": "Barão Menta", "image": "imgprodutos/ervamate/composto/barão-menta-500g.jpg", "description": "Description for product B2", "price": "R$ 14,50" },
+        
+        { "id": 245.1, "url":"?", "name": "barão bergamota anis estrelado e gengibre", "image": "imgprodutos/ervamate/composto/barão-bergamota-anis-estrelado-gengibre-500g.jpg", "description": "Description for product B2", "price": "R$ 14,50" },
     
         { "id": 246, "url":"?", "name": "Vier Cítrico", "image": "imgprodutos/ervamate/composto/vier-cítrico-500g.jpg", "description": "Description for product B1", "price": "R$ 14,50" },
 
@@ -163,7 +163,7 @@
         { "id": 263, "url":"?", "name": "Kurupí Paraguaia com Gengibre Menta e Chá Verde 500g", "image": "imgprodutos/ervamate/terere/Kurupí (Paraguaia) com Gengibre,  Menta e Chá Verde 500g.jpg", "description": "Description for product B1", "price": "R$ 20,00" }
     ],
 
-    "Kits Chimarrao": [
+    "Kits": [
         
         { "id": 401, "url":"?", "name": "kit Matetri golden quadriculado", "image": "imgprodutos/kits/Kit Matetri Golden quadriculado 3 peças com térmica de 1 litro.jpg", "description": "Composição: Mateira com alça de mão <br></br> Garrafa termolar de pressão 1 litro <br></br>Porta Erva Mate", "price": "R$ 310,00" },
 
@@ -267,7 +267,7 @@
 
 
     ],
-    "Cuias Personalizadas": [
+    "Cuias": [
 
         { "id": 701, "url":"?", "name": "Cuia porongo tradicional com base", "image": "imgprodutos/cuias/cuia-porongo-tradicional-com-base.jpg", "description": "Description for product B1","longDescription": "Long description for product A1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": "R$ 49,00" },
 
