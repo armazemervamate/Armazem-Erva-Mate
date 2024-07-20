@@ -10352,6 +10352,10 @@ a {
   z-index:1000; 
   animation: alerta 1.5s infinite;
 }
+.whats:hover{
+  transition: 2s;
+  background-color: #284324;
+}
 
 @keyframes alerta {
   0% {
