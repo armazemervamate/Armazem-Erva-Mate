@@ -280,48 +280,47 @@
     
         { "id": 905, "url":"nao tem", "name": "Cuia de cerâmica", "image": "imgprodutos/cuias/cuia-de-ceramica.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Cerâmica<br>Imbuia<br>Cor Natural<br><br><strong>Consultar Medidas!", "price": "R$ 40,00" },
     
-        { "id": 906, "url":"nao tem", "name": "Cuia bago de touro curtida", "image": "imgprodutos/cuias/cuia-bago-de-touro-curtida.jpg", "description": "", "price": "R$ 55,00" },
+        { "id": 906, "url":"nao tem", "name": "Cuia bago de touro curtida", "image": "imgprodutos/cuias/cuia-bago-de-touro-curtida.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Porongo<br>Curtida em Fogo, Pronta Para Uso<br>Cor Preta<br><br><strong>Consultar Medidas!", "price": "R$ 55,00" },
     
-        { "id": 907, "url":"https://wa.me/p/7880532598699121/554892188468", "name": "Coquinho com bombas simples", "image": "imgprodutos/cuias/coquinho-com-bombas-simples.jpg", "description": "", "price": "R$ 38,00" },
+        { "id": 907, "url":"https://wa.me/p/7880532598699121/554892188468", "name": "Coquinho com bombas simples", "image": "imgprodutos/cuias/coquinho-com-bombas-simples.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Porongo Tipo Argentina<br>Imbuia<br>Cor Porongo Natural e Preta<br>Acompanha Bomba de Metal 14,5cm <br><br><strong>Consultar Medidas!", "price": "R$ 38,00" },
     
-        { "id": 908, "url":"https://wa.me/p/7841844895835989/554892188468", "name": "Coquinho com bocal em aluminio e suporte em couro", "image": "imgprodutos/cuias/coquinho-com-bocal-em-aluminio-e-suporte-em couro.jpg", "description": "", "price": "R$ 110,00" },
+        { "id": 908, "url":"https://wa.me/p/7841844895835989/554892188468", "name": "Coquinho com bocal em aluminio e suporte em couro", "image": "imgprodutos/cuias/coquinho-com-bocal-em-aluminio-e-suporte-em couro.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tipo Argentina<br>Cor Natural Envernizado<br>Bocal Em Aluminio<br>Acompanha Suporte Base Em Couro<br><br><strong>Consultar Medidas!", "price": "R$ 110,00" },
     
-        { "id": 909, "url":"nao tem", "name": "Cuia uruguaias", "image": "imgprodutos/cuias/cuia-uruguaias.jpg", "description": "", "price": "R$ 120,00" },
+        { "id": 909, "url":"nao tem", "name": "Cuias Uruguaias", "image": "imgprodutos/cuias/cuia-uruguaias.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tipo Uruguaia<br>Encapada Em Couro<br><br><strong>Consultar Medidas!", "price": "R$ 120,00" },
 
-        { "id": 910, "url":"nao tem", "name": "Cuias Porongo Trabalhadas tamanho pequeno ", "image": "imgprodutos/cuias/Cuias Porongo Trabalhadas tamanho pequeno.jpg", "description": "", "price": "R$ 85,00" },
+        { "id": 910, "url":"nao tem", "name": "Cuias Porongo Trabalhadas tamanho pequeno ", "image": "imgprodutos/cuias/Cuias Porongo Trabalhadas tamanho pequeno.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo<br>Artesanais Feito A Mão<br>Tamanho Pequeno 9,5cm<br><br><strong>Consultar Medidas!", "price": "R$ 85,00" },
     
-        { "id": 910, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (1).jpg", "description": "", "price": "R$ 70,00" },
+        { "id": 911, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (1).jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tradicional<br>Cor Natural<br>Frase Gravada Á Laser<br><br><strong>Consultar Medidas!", "price": "R$ 70,00" },
 
-        { "id": 911, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (2).jpg", "description": "", "price": "R$ 70,00" },
+        { "id": 912, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (2).jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tradicional<br>Cor Natural<br>Frase Gravada Á Laser<br><br><strong>Consultar Medidas!", "price": "R$ 70,00" },
 
-        { "id": 912, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (3).jpg", "description": "", "price": "R$ 70,00" },
+        { "id": 913, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (3).jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tradicional<br>Cor Natural<br>Frase Gravada Á Laser<br><br><strong>Consultar Medidas!", "price": "R$ 70,00" },
 
-        { "id": 913, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (4).jpg", "description": "", "price": "R$ 70,00" },
+        { "id": 914, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (4).jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tradicional<br>Cor Natural<br>Frase Gravada Á Laser<br><br><strong>Consultar Medidas!", "price": "R$ 70,00" },
 
-        { "id": 914, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (5).jpg", "description": "", "price": "R$ 70,00" },
+        { "id": 915, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (5).jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tradicional<br>Cor Natural<br>Frase Gravada Á Laser<br><br><strong>Consultar Medidas!", "price": "R$ 70,00" },
 
-        { "id": 915, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (6).jpg", "description": "", "price": "R$ 70,00" },
+        { "id": 916, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (6).jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tradicional<br>Cor Natural<br>Frase Gravada Á Laser<br><br><strong>Consultar Medidas!", "price": "R$ 70,00" },
 
-        { "id": 916, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (7).jpg", "description": "", "price": "R$ 70,00" },
+        { "id": 917, "url":"nao tem", "name": "Cuia Personalizado Frases ", "image": "imgprodutos/cuias/cuia-personalizada-frases (7).jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia De Porongo Tradicional<br>Cor Natural<br>Frase Gravada Á Laser<br><br><strong>Consultar Medidas!", "price": "R$ 70,00" },
 
-        { "id": 917, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Preto", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Preta.jpg", "description": "", "price": "R$ 80,00" },
+        { "id": 918, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Preto", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Preta.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Preto Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" },
             
-        { "id": 918, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Branca", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Branca.jpg", "description": "", "price": "R$ 80,00" },
+        { "id": 919, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Branca", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Branca.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Branca Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" },
             
-        { "id": 919, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Azul Escuro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Azul Escuro.jpg", "description": "", "price": "R$ 80,00" },
+        { "id": 920, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Azul Escuro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Azul Escuro.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Azul Escuro Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" },
         
-        { "id": 920, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Azul Claro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Azul Claro.jpg", "description": "", "price": "R$ 80,00" },
+        { "id": 921, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Azul Claro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Azul Claro.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Azul Claro Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" },
 
-        { "id": 921, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Nude", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Nude.jpg", "description": "", "price": "R$ 80,00" },
+        { "id": 922, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Nude", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Nude.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Nude Cor de Pele Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" },
         
-        { "id": 922, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Vermelha", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Vermelha.jpg", "description": "", "price": "R$ 80,00" },
+        { "id": 923, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Vermelha", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Vermelha.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Vermelha Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" },
         
-        { "id": 923, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Rosa Pink", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Rosa Pink.jpg", "description": "", "price": "R$ 80,00" },
+        { "id": 924, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Rosa Pink", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Rosa Pink.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Rosa Pink Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" },
         
-        { "id": 924, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Nude", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Lilás.jpg", "description": "", "price": "R$ 80,00" },
+        { "id": 925, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor Nude", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Lilás.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Lilás Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" },
         
-        { "id": 925, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor rosa claro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Rosa Claro.jpg", "description": "", "price": "R$ 80,00" }
-
+        { "id": 926, "url":"nao tem", "name": "Cuia Madeira Imbuia Bicolor rosa claro", "image": "imgprodutos/cuias/Cuia Madeira Imbuia Bicolor cor Rosa Claro.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Cuia de Madeira<br>Imbuia<br>Bicolor Rosa Claro Envernizada<br><br><strong>Consultar Medidas!", "price": "R$ 80,00" }
 
 
 
