@@ -1,26 +1,26 @@
 {
     "Acessórios": [
-        { "id": 101, "url":"https://wa.me/554892188468?text=", "name": "Cevador com frases", "image": "imgprodutos/acessorios/cevador-com-frases2.jpg", "description": "", "price": "R$ 11,00" },
+        { "id": 101, "url":"https://wa.me/554892188468?text=", "name": "Cevador com frases", "image": "imgprodutos/acessorios/cevador-com-frases2.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Vira Mate<br>De Acrílico<br><br><strong>Consultar Disponibilidade!", "price": "R$ 11,00" },
 
-        { "id": 102, "url":"https://wa.me/554892188468?text=", "name": "Cevador Galante ", "image": "imgprodutos/acessorios/cevador-galante2.jpg", "description": "", "price": "R$ 11,00" },
+        { "id": 102, "url":"https://wa.me/554892188468?text=", "name": "Cevador Galante ", "image": "imgprodutos/acessorios/cevador-galante2.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Vira Mate<br>De Acrílico<br><br><strong>Consultar Disponibilidade!", "price": "R$ 11,00" },
         
-        { "id": 103, "url":"https://wa.me/554892188468?text=", "name": "Cevador michelon", "image": "imgprodutos/acessorios/cevador-michelon2.jpg", "description": "", "price": "R$ 11,00" },
+        { "id": 103, "url":"https://wa.me/554892188468?text=", "name": "Cevador michelon", "image": "imgprodutos/acessorios/cevador-michelon2.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Vira Mate<br>De Acrílico<br><br><strong>Consultar Disponibilidade!", "price": "R$ 11,00" },
 
-        { "id": 104, "url":"https://wa.me/554892188468?text=", "name": "Pegador de erva em porongo", "image": "imgprodutos/acessorios/pegador.jpg", "description": "", "price": "R$ 12,00" },
+        { "id": 104, "url":"https://wa.me/554892188468?text=", "name": "Pegador de erva em porongo", "image": "imgprodutos/acessorios/pegador.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Pegador Para Erva<br>De Porongo<br><br><strong>Consultar Disponibilidade!", "price": "R$ 12,00" },
         
-        { "id": 105, "url":"https://wa.me/554892188468?text=", "name": "Suporte de carro para cuia", "image": "imgprodutos/acessorios/suporte-de-carro-para-cuia2.jpg", "description": "", "price": "R$ 20,00" },
+        { "id": 105, "url":"https://wa.me/554892188468?text=", "name": "Suporte De Cuia Para Carro", "image": "imgprodutos/acessorios/suporte-de-carro-para-cuia2.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Suporte De Cuia Para Carro<br>Tamanho Único<br><br><strong>Consultar Disponibilidade!", "price": "R$ 20,00" },
 
-        { "id": 106, "url":"https://wa.me/554892188468?text=", "name": "Tapa Erva", "image": "imgprodutos/acessorios/tapa-erva.jpg", "description": "", "price": "R$ 16,00" },
+        { "id": 106, "url":"https://wa.me/554892188468?text=", "name": "Tapa Erva", "image": "imgprodutos/acessorios/tapa-erva.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Tapa Erva<br>Ideal Para Passeios<br>Tamanho 8,5cm<br><br><strong>Consultar Disponibilidade!", "price": "R$ 16,00" },
 
-        { "id": 107, "url":"https://wa.me/554892188468?text=", "name": "Chimarrita Térmica 1L", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1 L Chimarrita de Rosca e com Bico  cor Rosa.jpg", "description": "", "price": "R$ 55,00" },
+        { "id": 107, "url":"https://wa.me/554892188468?text=", "name": "Chimarrita Térmica 1L", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1 L Chimarrita de Rosca e com Bico  cor Rosa.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Chimarrita Termolar<br>Com Rosca e Bico<br>Cor Rosa<br><br><strong>1 Litro<br><strong>Consultar Disponibilidade!", "price": "R$ 55,00" },
 
-        { "id": 108, "url":"https://wa.me/554892188468?text=", "name": "Garrafa Térmica 1L Pressão", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1 L de Pressão cor Preta.jpg", "description": "", "price": "R$ 75,00" },
+        { "id": 108, "url":"https://wa.me/554892188468?text=", "name": "Garrafa Térmica 1L Pressão", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1 L de Pressão cor Preta.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Garrafa Termolar<br>De Pressão<br>Cor Preta<br><br><strong>1 Litro<br><strong>Consultar Disponibilidade!", "price": "R$ 75,00" },
 
-        { "id": 109, "url":"https://wa.me/554892188468?text=", "name": "Garrafa Térmica 1L Pressão", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1 L de Pressão cor Caramelo.jpg", "description": "", "price": "R$ 75,00" },
+        { "id": 109, "url":"https://wa.me/554892188468?text=", "name": "Garrafa Térmica 1L Pressão", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1 L de Pressão cor Caramelo.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Garrafa Termolar<br>De Pressão<br>Cor Caramelo<br><br><strong>1 Litro<br><strong>Consultar Disponibilidade!", "price": "R$ 75,00" },
 
-        { "id": 110, "url":"https://wa.me/554892188468?text=", "name": "Garrafa Térmica 1,8L Pressão", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1,8 L de Pressão cor Preta.jpg", "description": "", "price": "R$ 95,00" },
+        { "id": 110, "url":"https://wa.me/554892188468?text=", "name": "Garrafa Térmica 1,8L Pressão", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1,8 L de Pressão cor Preta.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Garrafa Termolar<br>De Pressão<br>Cor Preta<br><br><strong>1,8 Litro<br><strong>Consultar Disponibilidade!", "price": "R$ 95,00" },
         
-        { "id": 111, "url":"https://wa.me/554892188468?text=", "name": "Garrafa Térmica 1,8L Pressão", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1,8 L de Pressão cor Bege.jpg", "description": "", "price": "R$ 95,00" }
+        { "id": 111, "url":"https://wa.me/554892188468?text=", "name": "Garrafa Térmica 1,8L Pressão", "image": "imgprodutos/acessorios/Garrafa térmica Termolar 1,8 L de Pressão cor Bege.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Garrafa Termolar<br>De Pressão<br>Cor Bege<br><br><strong>1,0 Litro<br><strong>Consultar Disponibilidade!", "price": "R$ 95,00" }
 
 
 
