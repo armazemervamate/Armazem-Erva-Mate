@@ -27,13 +27,13 @@
 ],
 
     "Erva Mate Chimarrão": [
-        { "id": 201, "url":"https://wa.me/p/6600107800060459/554892188468", "name": "Mate Nativo Premium", "image": "imgprodutos/ervamate/Mate Nativo Premium 1kg.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Erva Nativa Premium<br>Folhas Selecionadas<br>Sem Adição de Açúcar<br>1Kg", "price": "R$  21,00" },
+        { "id": 201, "url":"https://wa.me/p/6600107800060459/554892188468", "name": "Mate Nativo Premium", "image": "imgprodutos/ervamate/Mate Nativo Premium 1kg.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Erva Nativa Premium<br>Folhas Selecionadas<br>Sem Adição de Açúcar<br>1Kg", "price": "R$  22,00" },
 
-        { "id": 202, "url":"https://wa.me/p/4777047139024429/554892188468", "name": "Mate Nativo Original", "image": "imgprodutos/ervamate/Mate Nativo Original 1kg.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Erva Nativo Tradicional<br>Sem Adição de Açúcar<br>1Kg", "price": "R$  19,00" },
+        { "id": 202, "url":"https://wa.me/p/4777047139024429/554892188468", "name": "Mate Nativo Original", "image": "imgprodutos/ervamate/Mate Nativo Original 1kg.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Erva Nativo Tradicional<br>Sem Adição de Açúcar<br>1Kg", "price": "R$  20,00" },
 
-        { "id": 203, "url":"https://wa.me/p/4360292464076869/554892188468", "name": "Mate Nativo Moída Grossa", "image": "imgprodutos/ervamate/Mate Nativo Moida Grossa 1kg.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Erva Nativo<br>Moída Grossa + Folhas<br>Sem Adição de Açúcar<br>1Kg", "price": "R$  20,00" },
+        { "id": 203, "url":"https://wa.me/p/4360292464076869/554892188468", "name": "Mate Nativo Moída Grossa", "image": "imgprodutos/ervamate/Mate Nativo Moida Grossa 1kg.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Erva Nativo<br>Moída Grossa + Folhas<br>Sem Adição de Açúcar<br>1Kg", "price": "R$  21,00" },
 
-        { "id": 204, "url":"https://wa.me/p/5123134654384053/554892188468", "name": "Mate Nativo Orgânica à vácuo", "image": "imgprodutos/ervamate/Mate Nativo Orgânica à vácuo 500g.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Series Especial Mate Nativo Orgânica<br>Colhida ao amanhecer<br>Sem Adição de Açúcar<br>500g", "price": "R$  17,00" },
+        { "id": 204, "url":"https://wa.me/p/5123134654384053/554892188468", "name": "Mate Nativo Orgânica à vácuo", "image": "imgprodutos/ervamate/Mate Nativo Orgânica à vácuo 500g.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Series Especial Mate Nativo Orgânica<br>Colhida ao amanhecer<br>Sem Adição de Açúcar<br>500g", "price": "R$  18,00" },
     
         { "id": 205, "url":"https://wa.me/p/8078073348902004/554892188468", "name": "Mate Nativo Pura Folha Padrão Export à vácuo", "image": "imgprodutos/ervamate/Mate Nativo Pura Folha Padrão Export à vácuo 250g.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Series Especial Mate Nativo Pura Folha<br>Padrão Export<br>à vácuo<br>Sem Adição de Açúcar<br> 250g", "price": "R$  13,00" },
 
@@ -124,7 +124,7 @@
     
         { "id": 347, "url":"https://wa.me/p/4531837473551737/554892188468", "name": "Vier Cítrico", "image": "imgprodutos/ervamate/composto/vier-cítrico-500g.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Composto de Erva Mate<br>Sabor Laranja-Doce, Hotelã, Camomila, Capim-Limão<br>Sem Adição de Açúcar<br>500g", "price": "R$ 14,50" },
 
-        { "id": 348, "url":"https://wa.me/p/6034189916595187/554892188468", "name": "Mate Nativo Menta e Laranja a Vácuo", "image": "imgprodutos/ervamate/composto/Mate-nativo-Menta-e-Laranja-a-vácuo-500g.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Composto de Erva Mate<br>Sabor Menta e Laranja<br>à vácuo<br>Sem Adição de Açúcar<br>500g", "price": "R$ 17,00" }
+        { "id": 348, "url":"https://wa.me/p/6034189916595187/554892188468", "name": "Mate Nativo Menta e Laranja a Vácuo", "image": "imgprodutos/ervamate/composto/Mate-nativo-Menta-e-Laranja-a-vácuo-500g.jpg", "description": "<strong>Descrição do Produto:</strong><br><br>Composto de Erva Mate<br>Sabor Menta e Laranja<br>à vácuo<br>Sem Adição de Açúcar<br>500g", "price": "R$ 18,00" }
     ],
 
     "Yerba Mate": [
